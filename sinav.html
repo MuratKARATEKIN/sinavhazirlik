@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Excel Soru Getirme</title>
+    <!-- Bootstrap 5 CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+
+    <div class="container bg-info p-5">
+        <h1 class="text-danger text-center">PTE Sınavına Hazırlık</h1>
+    </div>
+    <div class="container bg-light">
+
+        <div class="container soru p-5" id="soru">
+            <p class="text-center fs-2">What do you call the alphabetical list at the end of a textbook that tells you where to find specific information?</p>
+        </div>
+
+        <div class="d-grid gap-2 col-6 mx-auto p-5">
+            <button class="btn btn-primary" type="button">Button</button>
+            <button class="btn btn-primary" type="button">Button</button>
+            <button class="btn btn-primary" type="button">Button</button>
+            <button class="btn btn-primary" type="button">Button</button>
+          </div>
+    </div>
+
+    <!-- Bootstrap 5 JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.min.js"></script>
+    <script>
+        // Örnek veri (Excel'den gelen verileri buraya entegre edebilirsiniz)
+        const sorular = [
+            { No: 1, soru: "Soru 1", cevap: "Cevap 1", aktif: 1 },
+            // Diğer sorular...
+        ];
+
+        // Aktif olan soruları tabloya ekle
+        const soruTablosu = document.getElementById("sorular");
+        sorular.forEach(soru => {
+            if (soru.aktif === 1) {
+                const tr = document.createElement("tr");
+                tr.innerHTML = `
+                    <td>${soru.No}</td>
+                    <td>${soru.soru}</td>
+                    <td>${soru.cevap}</td>
+                `;
+                soruTablosu.appendChild(tr);
+            }
+        });
+    </script>
+</body>
+</html>
