@@ -1,0 +1,4280 @@
+  [
+    {
+      "No": 1,
+      "Soru": "How many days are in a leap year? ",
+      "Cevap": " 366.",
+      "Aktif": 1
+    },
+    {
+      "No": 2,
+      "Soru": "How many years are there in a century? ",
+      "Cevap": " 100 years.",
+      "Aktif": 1
+    },
+    {
+      "No": 3,
+      "Soru": "How many years are there in a passage of decade? ",
+      "Cevap": " 10.",
+      "Aktif": 1
+    },
+    {
+      "No": 4,
+      "Soru": "If a figure is hexagonal, how many sides does it have? ",
+      "Cevap": " Six.",
+      "Aktif": 1
+    },
+    {
+      "No": 5,
+      "Soru": "In which direction does the sun come up? ",
+      "Cevap": " East.",
+      "Aktif": 1
+    },
+    {
+      "No": 6,
+      "Soru": "Some calendars begin the week on Sunday, what is the other day which commonly starts a week? ",
+      "Cevap": " Monday.",
+      "Aktif": 1
+    },
+    {
+      "No": 7,
+      "Soru": "What do we call a book that contains lots of words with their meanings? ",
+      "Cevap": " Dictionary.",
+      "Aktif": 1
+    },
+    {
+      "No": 8,
+      "Soru": "What do we call 10 years? ",
+      "Cevap": " Dictionary.",
+      "Aktif": 1
+    },
+    {
+      "No": 9,
+      "Soru": "What do we call the piece of paper that proves you have bought an item? ",
+      "Cevap": " A receipt.",
+      "Aktif": 1
+    },
+    {
+      "No": 10,
+      "Soru": "What do you call the alphabetical list at the end of a textbook that tells you where to find specific information? ",
+      "Cevap": " Index.",
+      "Aktif": 1
+    },
+    {
+      "No": 11,
+      "Soru": "What do you need to see a thing which is far away? ",
+      "Cevap": " Binoculars.",
+      "Aktif": 1
+    },
+    {
+      "No": 12,
+      "Soru": "What does a king or queen wear on their head at official ceremonies? ",
+      "Cevap": " Crown.",
+      "Aktif": 1
+    },
+    {
+      "No": 13,
+      "Soru": "What instrument would you use to examine very small objects or life forms? ",
+      "Cevap": " Microscope.",
+      "Aktif": 1
+    },
+    {
+      "No": 14,
+      "Soru": "What are 3 quarters of 100%? How much percent is three quarters? ",
+      "Cevap": 0.75,
+      "Aktif": 1
+    },
+    {
+      "No": 15,
+      "Soru": "What is more fuel-eff\u0131cient, car, or truck? ",
+      "Cevap": " Car.",
+      "Aktif": 1
+    },
+    {
+      "No": 16,
+      "Soru": "What is the antonym of vertical? ",
+      "Cevap": " Horizontal.",
+      "Aktif": 1
+    },
+    {
+      "No": 17,
+      "Soru": "What is the study of the stars and planets called? ",
+      "Cevap": " Astronomy.",
+      "Aktif": 1
+    },
+    {
+      "No": 18,
+      "Soru": "What is the word for a period of one hundred years? ",
+      "Cevap": " Century.",
+      "Aktif": 1
+    },
+    {
+      "No": 19,
+      "Soru": "What kind of liquid do mammals feed their babies (children)? ",
+      "Cevap": " Milk.",
+      "Aktif": 1
+    },
+    {
+      "No": 20,
+      "Soru": "Which organ is the blood pumped from? ",
+      "Cevap": " Heart.",
+      "Aktif": 1
+    },
+    {
+      "No": 21,
+      "Soru": "What special document do most people traveling between one country to another need to carry? ",
+      "Cevap": " A passport.",
+      "Aktif": 1
+    },
+    {
+      "No": 22,
+      "Soru": "What word is used to describe frozen water? ",
+      "Cevap": " Ice",
+      "Aktif": 1
+    },
+    {
+      "No": 23,
+      "Soru": "When the writer of a book is unknown, what word is used for the author? ",
+      "Cevap": " Anonymous.",
+      "Aktif": 1
+    },
+    {
+      "No": 24,
+      "Soru": "Which sweet food is produced by bees? ",
+      "Cevap": " Honey.",
+      "Aktif": 1
+    },
+    {
+      "No": 25,
+      "Soru": "Which symbol is used to complete a sentence? ",
+      "Cevap": " Full stop\/period.",
+      "Aktif": 1
+    },
+    {
+      "No": 26,
+      "Soru": "Would you go to a pharmacy or a surgery to get a prescription f\u0131lled after visiting a doctor? ",
+      "Cevap": " A pharmacy.",
+      "Aktif": 1
+    },
+    {
+      "No": 27,
+      "Soru": "Whose job is it to treat people that are ill or have an injury at a hospital? ",
+      "Cevap": " Doctor.",
+      "Aktif": 1
+    },
+    {
+      "No": 28,
+      "Soru": "What kind of book is written by a person about their own life? ",
+      "Cevap": " Autobiography.",
+      "Aktif": 1
+    },
+    {
+      "No": 29,
+      "Soru": "What is the name of a building where you can borrow books? ",
+      "Cevap": " Library.",
+      "Aktif": 1
+    },
+    {
+      "No": 30,
+      "Soru": "On what geographical location would someone be living if their country is surrounded by water on all sides? ",
+      "Cevap": " Island.",
+      "Aktif": 1
+    },
+    {
+      "No": 31,
+      "Soru": "What do you call a piece of equipment we use to look at stars? ",
+      "Cevap": " Astronomical telescope.",
+      "Aktif": 1
+    },
+    {
+      "No": 32,
+      "Soru": "In mathematics, there are four basic operations: addition, subtraction, \nmultiplication, and what?",
+      "Cevap": " Division.",
+      "Aktif": 1
+    },
+    {
+      "No": 33,
+      "Soru": "Where does a camel normally live? ",
+      "Cevap": " Desert.",
+      "Aktif": 1
+    },
+    {
+      "No": 34,
+      "Soru": "How many years are there in a millennium? ",
+      "Cevap": " A thousand years.",
+      "Aktif": 1
+    },
+    {
+      "No": 35,
+      "Soru": "What is the natural material used to make a car tire? ",
+      "Cevap": " Rubber.",
+      "Aktif": 1
+    },
+    {
+      "No": 36,
+      "Soru": "If a figure is a pentagon, how many sides does it have? ",
+      "Cevap": " Five.",
+      "Aktif": 1
+    },
+    {
+      "No": 37,
+      "Soru": "What do you call the strap that circulates a person in a car or an airplane? ",
+      "Cevap": " Seatbelt.",
+      "Aktif": 1
+    },
+    {
+      "No": 38,
+      "Soru": "When you get lost in the city, what do you need? ",
+      "Cevap": " Map.",
+      "Aktif": 1
+    },
+    {
+      "No": 39,
+      "Soru": "When you react to a stimulus, is your response quick or slow? ",
+      "Cevap": " Quick.",
+      "Aktif": 1
+    },
+    {
+      "No": 40,
+      "Soru": "What can we call a doctor who can sell prescribed medicines? ",
+      "Cevap": " Pharmacist.\/Chemist.",
+      "Aktif": 1
+    },
+    {
+      "No": 41,
+      "Soru": "What can we call the animals with white ivory and long trunk? ",
+      "Cevap": " Elephant.",
+      "Aktif": 1
+    },
+    {
+      "No": 42,
+      "Soru": "How many days should be added to February in a leap year? ",
+      "Cevap": " One day.",
+      "Aktif": 1
+    },
+    {
+      "No": 43,
+      "Soru": "How many years does a centennial celebrate? ",
+      "Cevap": " 100 years.",
+      "Aktif": 1
+    },
+    {
+      "No": 44,
+      "Soru": "What are the people who study ancient bones or plants in rocks? ",
+      "Cevap": " Paleontologist",
+      "Aktif": 1
+    },
+    {
+      "No": 45,
+      "Soru": "If there are 8 black balls and 1 white ball, and I randomly pick one, which color is most likely to be picked? ",
+      "Cevap": " Black.",
+      "Aktif": 1
+    },
+    {
+      "No": 46,
+      "Soru": "If you want to buy a ring, who do you approach, a jeweler or pharmacist? ",
+      "Cevap": " Jeweler.",
+      "Aktif": 1
+    },
+    {
+      "No": 47,
+      "Soru": "What do we call the instructions that tell you how to cook food? ",
+      "Cevap": " Recipe.",
+      "Aktif": 1
+    },
+    {
+      "No": 48,
+      "Soru": "What is the job title for someone who cooks food in a kitchen? ",
+      "Cevap": " Chef \/Cook.",
+      "Aktif": 1
+    },
+    {
+      "No": 49,
+      "Soru": "What do you call a list in front of a book which outlines the structure of a book? ",
+      "Cevap": " Table of Contents.",
+      "Aktif": 1
+    },
+    {
+      "No": 50,
+      "Soru": "What does a Sundial measure? ",
+      "Cevap": " Time.",
+      "Aktif": 1
+    },
+    {
+      "No": 51,
+      "Soru": "What is the big musical instrument that has 88 black and white keys? ",
+      "Cevap": " Piano.",
+      "Aktif": 1
+    },
+    {
+      "No": 52,
+      "Soru": "What is the joint between your shoulder and your forearm? ",
+      "Cevap": " Elbow.",
+      "Aktif": 1
+    },
+    {
+      "No": 53,
+      "Soru": "What is the opposite of \u201cpredecessor\u201d? ",
+      "Cevap": " Successor.",
+      "Aktif": 1
+    },
+    {
+      "No": 54,
+      "Soru": "What are the strings on shoes? ",
+      "Cevap": " Shoelace.",
+      "Aktif": 1
+    },
+    {
+      "No": 55,
+      "Soru": "What are the things that you touch with your left hand when you play the guitar? ",
+      "Cevap": " Strings.",
+      "Aktif": 1
+    },
+    {
+      "No": 56,
+      "Soru": "What kind of sense do you use by your ears? ",
+      "Cevap": " Hearing.",
+      "Aktif": 1
+    },
+    {
+      "No": 57,
+      "Soru": "What are the mountains that erupt? ",
+      "Cevap": " Volcanoes.",
+      "Aktif": 1
+    },
+    {
+      "No": 58,
+      "Soru": "What do we call the \u201cTimes New Roman\u201d in Microsoft Word? ",
+      "Cevap": " Typeface\/Font.",
+      "Aktif": 1
+    },
+    {
+      "No": 59,
+      "Soru": "What are the two holes in your nose to breathe? ",
+      "Cevap": " Nostrils.",
+      "Aktif": 1
+    },
+    {
+      "No": 60,
+      "Soru": "Which one would you use to describe the desert, humidity, or aridity? ",
+      "Cevap": " Aridity.",
+      "Aktif": 1
+    },
+    {
+      "No": 61,
+      "Soru": "Before airplanes were invented, how did people travel between the island from America to Europe? ",
+      "Cevap": " By ship \/By cruise.",
+      "Aktif": 1
+    },
+    {
+      "No": 62,
+      "Soru": "What system does the earth belong to? ",
+      "Cevap": " Solar system.",
+      "Aktif": 1
+    },
+    {
+      "No": 63,
+      "Soru": "What is the meaning of \u201cpost\u201d in the word \u201cpostgraduate? ",
+      "Cevap": " After.",
+      "Aktif": 1
+    },
+    {
+      "No": 64,
+      "Soru": "What is the opposite of positive? ",
+      "Cevap": " Negative.",
+      "Aktif": 1
+    },
+    {
+      "No": 65,
+      "Soru": "What do we call the thread in the center of a candle? ",
+      "Cevap": " Wick.",
+      "Aktif": 1
+    },
+    {
+      "No": 66,
+      "Soru": "What natural resource is used by a carpenter? ",
+      "Cevap": " Wood.",
+      "Aktif": 1
+    },
+    {
+      "No": 67,
+      "Soru": "How many hemispheres does the equator divide the globe into? ",
+      "Cevap": " Two.",
+      "Aktif": 1
+    },
+    {
+      "No": 68,
+      "Soru": "What is the most catching line of the newspaper? ",
+      "Cevap": " Headline.",
+      "Aktif": 1
+    },
+    {
+      "No": 69,
+      "Soru": "How do we call a person who works in the company? ",
+      "Cevap": " An employee.\/Employees.",
+      "Aktif": 1
+    },
+    {
+      "No": 70,
+      "Soru": "What do we call a festival which is held every four years gathering people together as a sporting event? ",
+      "Cevap": " Olympics (Games).",
+      "Aktif": 1
+    },
+    {
+      "No": 71,
+      "Soru": "What type of food does a vegetarian eat, beef pie or fruit salad? ",
+      "Cevap": " Fruit Salad.",
+      "Aktif": 1
+    },
+    {
+      "No": 72,
+      "Soru": "Which day is between Tuesday and Thursday? ",
+      "Cevap": " Wednesday.",
+      "Aktif": 1
+    },
+    {
+      "No": 73,
+      "Soru": "What can bring astronauts to space? ",
+      "Cevap": " Spacecraft.",
+      "Aktif": 1
+    },
+    {
+      "No": 74,
+      "Soru": "What publication reports daily news? ",
+      "Cevap": " Newspaper.",
+      "Aktif": 1
+    },
+    {
+      "No": 75,
+      "Soru": "What is the collection of pictures called? ",
+      "Cevap": " Album.",
+      "Aktif": 1
+    },
+    {
+      "No": 76,
+      "Soru": "Who is a physician who performs surgical operations? ",
+      "Cevap": " Surgeon.",
+      "Aktif": 1
+    },
+    {
+      "No": 77,
+      "Soru": "We went somewhere\u201d, how do you understand it\u2019s a past sentence? ",
+      "Cevap": " Went.",
+      "Aktif": 1
+    },
+    {
+      "No": 78,
+      "Soru": "What is the opposite side that the sun rises? ",
+      "Cevap": " West.",
+      "Aktif": 1
+    },
+    {
+      "No": 79,
+      "Soru": "Who sits in the cockpit of an airplane? ",
+      "Cevap": " Pilot.",
+      "Aktif": 1
+    },
+    {
+      "No": 80,
+      "Soru": "How do you describe the line that segments a circle? ",
+      "Cevap": " Chord.",
+      "Aktif": 1
+    },
+    {
+      "No": 81,
+      "Soru": "Which continent do China, India, Korea, and Japan locate? ",
+      "Cevap": " Asia.",
+      "Aktif": 1
+    },
+    {
+      "No": 82,
+      "Soru": "What is the opposite of the word \u2018artificial\u2019? ",
+      "Cevap": "Natural \/ genuine \/ real.",
+      "Aktif": 1
+    },
+    {
+      "No": 83,
+      "Soru": "What do bees collect from flowers? ",
+      "Cevap": " Pollen.",
+      "Aktif": 1
+    },
+    {
+      "No": 84,
+      "Soru": "Why are bees so important to agriculture? ",
+      "Cevap": " Pollination.",
+      "Aktif": 1
+    },
+    {
+      "No": 85,
+      "Soru": "How would you describe someone who can speak two languages? ",
+      "Cevap": " Bilingual.",
+      "Aktif": 1
+    },
+    {
+      "No": 86,
+      "Soru": "What is a standard set of letters that is used to write one or more languages based upon the general principle? ",
+      "Cevap": " Alphabet.",
+      "Aktif": 1
+    },
+    {
+      "No": 87,
+      "Soru": "In which reference book can you find synonyms and antonyms? ",
+      "Cevap": " Thesaurus.",
+      "Aktif": 1
+    },
+    {
+      "No": 88,
+      "Soru": "What does ASAP mean? What does ASAP stand for? ",
+      "Cevap": " As Soon As Possible",
+      "Aktif": 1
+    },
+    {
+      "No": 89,
+      "Soru": "What do these following belong to chrysanthemum, roses, daisies, tulip, etc? ",
+      "Cevap": " Flowers.",
+      "Aktif": 1
+    },
+    {
+      "No": 90,
+      "Soru": "What device do you use to measure your weight? ",
+      "Cevap": " Scale.",
+      "Aktif": 1
+    },
+    {
+      "No": 91,
+      "Soru": "How do you call the diagram which includes a horizontal line called X- axis and a vertical line called Y-axis? ",
+      "Cevap": " Coordinate system.",
+      "Aktif": 1
+    },
+    {
+      "No": 92,
+      "Soru": "How many wheels does a tricycle have? ",
+      "Cevap": " Three.",
+      "Aktif": 1
+    },
+    {
+      "No": 93,
+      "Soru": "Which part at the end of the book can be used for further reading? An index or a bibliography? ",
+      "Cevap": " Bibliography.",
+      "Aktif": 1
+    },
+    {
+      "No": 94,
+      "Soru": "Where can you find the index in a book? ",
+      "Cevap": " At the end.",
+      "Aktif": 1
+    },
+    {
+      "No": 95,
+      "Soru": "Which one has higher humidity, a desert, or a rainforest? ",
+      "Cevap": " A rainforest.",
+      "Aktif": 1
+    },
+    {
+      "No": 96,
+      "Soru": "What is the hardest\/toughest part of your hand? ",
+      "Cevap": " Nails.",
+      "Aktif": 1
+    },
+    {
+      "No": 97,
+      "Soru": "What is the hard object in the center of peaches, apples, and pears? ",
+      "Cevap": " Stone.",
+      "Aktif": 1
+    },
+    {
+      "No": 98,
+      "Soru": "What does the Chemical symbol H2O stand for? ",
+      "Cevap": " Water.",
+      "Aktif": 1
+    },
+    {
+      "No": 99,
+      "Soru": "What do you call the publication that is published four times a year? ",
+      "Cevap": " Quarterly.",
+      "Aktif": 1
+    },
+    {
+      "No": 100,
+      "Soru": "What is the capital of France? ",
+      "Cevap": " Paris",
+      "Aktif": 1
+    },
+    {
+      "No": 101,
+      "Soru": "What is the first paragraph of an essay? ",
+      "Cevap": " Introduction",
+      "Aktif": 1
+    },
+    {
+      "No": 102,
+      "Soru": "What do we call the thread in the center of the candle? ",
+      "Cevap": " Wick",
+      "Aktif": 1
+    },
+    {
+      "No": 103,
+      "Soru": "What are the mountains that can erupt? ",
+      "Cevap": " Volcanoes.",
+      "Aktif": 1
+    },
+    {
+      "No": 104,
+      "Soru": "What are the people who study history and historical evidence? ",
+      "Cevap": " Historian.",
+      "Aktif": 1
+    },
+    {
+      "No": 105,
+      "Soru": "Which symbol is used to complete a sentence? ",
+      "Cevap": " Full stop \/ period",
+      "Aktif": 1
+    },
+    {
+      "No": 106,
+      "Soru": "Where does a camel normally live? ",
+      "Cevap": " Desert.",
+      "Aktif": 1
+    },
+    {
+      "No": 107,
+      "Soru": "A document protecting someone\u2019s intellectual property? ",
+      "Cevap": " Copyright.",
+      "Aktif": 1
+    },
+    {
+      "No": 108,
+      "Soru": "What is the job title for someone who makes meals in a restaurant? ",
+      "Cevap": " Chef\/Cook",
+      "Aktif": 1
+    },
+    {
+      "No": 109,
+      "Soru": "Which part at the end of book can be used for further reading? An index or a bibliography? ",
+      "Cevap": " Bibliography",
+      "Aktif": 1
+    },
+    {
+      "No": 110,
+      "Soru": "What does a Sundial measure? ",
+      "Cevap": " Time",
+      "Aktif": 1
+    },
+    {
+      "No": 111,
+      "Soru": "How many years are there in a passage of decade? ",
+      "Cevap": " 10 years",
+      "Aktif": 1
+    },
+    {
+      "No": 112,
+      "Soru": "Who sits in the cockpit of an airplane? ",
+      "Cevap": " Pilot.",
+      "Aktif": 1
+    },
+    {
+      "No": 113,
+      "Soru": "When your bone is injured and broken, what would you say you have? ",
+      "Cevap": " Fracture.",
+      "Aktif": 1
+    },
+    {
+      "No": 114,
+      "Soru": "How do you call the people who work for a company? ",
+      "Cevap": " Employees.",
+      "Aktif": 1
+    },
+    {
+      "No": 115,
+      "Soru": "Which one is more fuel efficient, a small car or a large truck? ",
+      "Cevap": " A small car.",
+      "Aktif": 1
+    },
+    {
+      "No": 116,
+      "Soru": "What is the big musical instrument that has 88 black and white keys? ",
+      "Cevap": " Piano.",
+      "Aktif": 1
+    },
+    {
+      "No": 117,
+      "Soru": "What is the meaning of \u201cpost\u201d in the word \u201cpostgraduate\u201d? ",
+      "Cevap": " After",
+      "Aktif": 1
+    },
+    {
+      "No": 118,
+      "Soru": "How many days are there added in February during a leap year? ",
+      "Cevap": " ?1 day",
+      "Aktif": 1
+    },
+    {
+      "No": 119,
+      "Soru": "How do you call a doctor who can sell prescribed medicines in a hospital? ",
+      "Cevap": " Chemist\/Pharmacist.",
+      "Aktif": 1
+    },
+    {
+      "No": 120,
+      "Soru": "Which one would a vegetarian most likely to eat, sandwiches or fruit salad? ",
+      "Cevap": " Fruit salad.",
+      "Aktif": 1
+    },
+    {
+      "No": 121,
+      "Soru": "Which one has a lower humidity, a desert or a rainforest? ",
+      "Cevap": " A desert.",
+      "Aktif": 1
+    },
+    {
+      "No": 122,
+      "Soru": "If you have a toothache, do you go to a surgeon or a dentist?",
+      "Cevap": "Dentist.",
+      "Aktif": 1
+    },
+    {
+      "No": 123,
+      "Soru": "Animals with white ivory and long trunk? ",
+      "Cevap": " Elephant",
+      "Aktif": 1
+    },
+    {
+      "No": 124,
+      "Soru": "How many years does a centennial celebrates? ",
+      "Cevap": " 100 years.",
+      "Aktif": 1
+    },
+    {
+      "No": 125,
+      "Soru": "What do you call a list in front of a book which outlines the structure of a book? ",
+      "Cevap": " Table of Contents",
+      "Aktif": 1
+    },
+    {
+      "No": 126,
+      "Soru": "Which one has a higher humidity, a desert or a rainforest? ",
+      "Cevap": " A rainforest.",
+      "Aktif": 1
+    },
+    {
+      "No": 127,
+      "Soru": "Under which circumstance would you describe the economy as a good one, the one with high unemployment or low unemployment? ",
+      "Cevap": " Low unemployment.",
+      "Aktif": 1
+    },
+    {
+      "No": 128,
+      "Soru": "How do you call the book where you collect all your photos together? ",
+      "Cevap": " Album.",
+      "Aktif": 1
+    },
+    {
+      "No": 129,
+      "Soru": "How many days are there in February during a leap year? ",
+      "Cevap": " 29 days.",
+      "Aktif": 1
+    },
+    {
+      "No": 130,
+      "Soru": "When you use Microsoft Word, what does \u201cTimes New Roman\u201d mean? ",
+      "Cevap": " Font.",
+      "Aktif": 1
+    },
+    {
+      "No": 131,
+      "Soru": "Which organ is the blood pumped from? ",
+      "Cevap": " Heart.",
+      "Aktif": 1
+    },
+    {
+      "No": 132,
+      "Soru": "How would you describe someone who can speak two languages? ",
+      "Cevap": " bilingual.",
+      "Aktif": 1
+    },
+    {
+      "No": 133,
+      "Soru": "What is the outer part that protects fruits like oranges and bananas? ",
+      "Cevap": " Peel.",
+      "Aktif": 1
+    },
+    {
+      "No": 134,
+      "Soru": "Where can students borrow reference materials in school? ",
+      "Cevap": " library.",
+      "Aktif": 1
+    },
+    {
+      "No": 135,
+      "Soru": "How do you call the money that citizens must contribute to the government for public use? ",
+      "Cevap": " Tax.",
+      "Aktif": 1
+    },
+    {
+      "No": 136,
+      "Soru": "What kind of clothes and shoes do you wear to keep it comfortable when hiking? ",
+      "Cevap": " Hiking outfit.",
+      "Aktif": 1
+    },
+    {
+      "No": 137,
+      "Soru": "What is the hardest\/toughest part of your hand? ",
+      "Cevap": " Nails.",
+      "Aktif": 1
+    },
+    {
+      "No": 138,
+      "Soru": "What is the hard object in the center of peaches, apples and pears? ",
+      "Cevap": " Stone.",
+      "Aktif": 1
+    },
+    {
+      "No": 139,
+      "Soru": "In a grassland or a swamp can you normally see an alligator ? ",
+      "Cevap": " Swamp.",
+      "Aktif": 1
+    },
+    {
+      "No": 140,
+      "Soru": "If you want to find the map of the US, what type of book should you use? ",
+      "Cevap": " Atlas.",
+      "Aktif": 1
+    },
+    {
+      "No": 141,
+      "Soru": "Where can you find the index in a book? ",
+      "Cevap": " At the end.",
+      "Aktif": 1
+    },
+    {
+      "No": 142,
+      "Soru": "What is the electronic device that wake you up in the morning? ",
+      "Cevap": " Alarm clock.",
+      "Aktif": 1
+    },
+    {
+      "No": 143,
+      "Soru": "How do you describe the line that divides a circle in two pieces? ",
+      "Cevap": " Chord",
+      "Aktif": 1
+    },
+    {
+      "No": 144,
+      "Soru": "When you react to a stimulus, is your response quick or slow? ",
+      "Cevap": " Quick",
+      "Aktif": 1
+    },
+    {
+      "No": 145,
+      "Soru": "Why are bees so important to agriculture? ",
+      "Cevap": " Pollination.",
+      "Aktif": 1
+    },
+    {
+      "No": 146,
+      "Soru": "If you are happy with an agreement, what would you like to put at the bottom of the contract with the date? ",
+      "Cevap": " Signature.",
+      "Aktif": 1
+    },
+    {
+      "No": 147,
+      "Soru": "What is the natural material used to make a car tire? ",
+      "Cevap": " Rubber",
+      "Aktif": 1
+    },
+    {
+      "No": 148,
+      "Soru": "What does the chemical symbol H2O stands for? ",
+      "Cevap": " Water.",
+      "Aktif": 1
+    },
+    {
+      "No": 149,
+      "Soru": "A newspaper is published everyday, and a journal is published every month. What do you call the publication that is published four times a year? ",
+      "Cevap": " Quarterly.",
+      "Aktif": 1
+    },
+    {
+      "No": 150,
+      "Soru": "What do we call a period of 10 years ? ",
+      "Cevap": " Decade",
+      "Aktif": 1
+    },
+    {
+      "No": 151,
+      "Soru": "What do we call a period of 100 years ? ",
+      "Cevap": " Century",
+      "Aktif": 1
+    },
+    {
+      "No": 152,
+      "Soru": "What do we call a period of 1000 years ? ",
+      "Cevap": " Millennium",
+      "Aktif": 1
+    },
+    {
+      "No": 153,
+      "Soru": "A specialist who repairs leaking water pipes is called as ? ",
+      "Cevap": " Plumber",
+      "Aktif": 1
+    },
+    {
+      "No": 154,
+      "Soru": "What is a painting of person head usually called ? ",
+      "Cevap": " Portrait",
+      "Aktif": 1
+    },
+    {
+      "No": 155,
+      "Soru": "Where would you find an urban area: in a city or in the countryside ?",
+      "Cevap": " a city",
+      "Aktif": 1
+    },
+    {
+      "No": 156,
+      "Soru": "What do we call it when the Moon completely blocks out the light from the Sun ? ",
+      "Cevap": "A Solar Eclipse",
+      "Aktif": 1
+    },
+    {
+      "No": 157,
+      "Soru": "What point of compass is directly opposite to East ?",
+      "Cevap": "West",
+      "Aktif": 1
+    },
+    {
+      "No": 158,
+      "Soru": "Where do you pay for your purchases at a supermarket ? ",
+      "Cevap": "Till or checkout",
+      "Aktif": 1
+    },
+    {
+      "No": 159,
+      "Soru": "What do you call an apartment that is below ground level: a basement apartment or a penthouse?",
+      "Cevap": "Basement apartment",
+      "Aktif": 1
+    },
+    {
+      "No": 160,
+      "Soru": "What feature do pianos and computers have in common ? ",
+      "Cevap": " Keyboard",
+      "Aktif": 1
+    },
+    {
+      "No": 161,
+      "Soru": "If you are feeling fed up, is it a positive or negative feeling ? ",
+      "Cevap": " Negative feeling",
+      "Aktif": 1
+    },
+    {
+      "No": 162,
+      "Soru": "What emergency service is usually called when someone is in trouble at sea : ambulance or coastguard ?",
+      "Cevap": " Coastguard",
+      "Aktif": 1
+    },
+    {
+      "No": 163,
+      "Soru": "Name a month that falls between April and June ? ",
+      "Cevap": " May",
+      "Aktif": 1
+    },
+    {
+      "No": 164,
+      "Soru": "What word describes moving a program or other material from a website to your computer ? ",
+      "Cevap": " Downloading",
+      "Aktif": 1
+    },
+    {
+      "No": 165,
+      "Soru": "What do we call a picture that a doctor takes to see inside your body ? ",
+      "Cevap": " X-ray",
+      "Aktif": 1
+    },
+    {
+      "No": 166,
+      "Soru": "A famous canal links the Mediterranean sea with the Indian Ocean. Is it the Corinth or the Suez Canal ? ",
+      "Cevap": " Suez Canal",
+      "Aktif": 1
+    },
+    {
+      "No": 167,
+      "Soru": "What crime has someone stealing items from a shop committed: shopfitting or shoplifting ?",
+      "Cevap": " Shop Lifting",
+      "Aktif": 1
+    },
+    {
+      "No": 168,
+      "Soru": "If someone is feeling a little ill, they may say they are feeling \u201cunder the \u201d what ? ",
+      "Cevap": " Weather",
+      "Aktif": 1
+    },
+    {
+      "No": 169,
+      "Soru": "Who is the person in charge of a football match ? ",
+      "Cevap": " Referee",
+      "Aktif": 1
+    },
+    {
+      "No": 170,
+      "Soru": "What do we call the last game in a sporting competition, which decide the champion ? ",
+      "Cevap": " Finals",
+      "Aktif": 1
+    },
+    {
+      "No": 171,
+      "Soru": "What is the general term of paintings of the countryside or natural views ? ",
+      "Cevap": " Landscape",
+      "Aktif": 1
+    },
+    {
+      "No": 172,
+      "Soru": "Which of these would probably be found in an office : a printer, a blanket or a nail brush ?",
+      "Cevap": " a printer",
+      "Aktif": 1
+    },
+    {
+      "No": 173,
+      "Soru": "Where would you store meat you wish to keep frozen at home ? ",
+      "Cevap": " Freezer",
+      "Aktif": 1
+    },
+    {
+      "No": 174,
+      "Soru": "What is the most important document you would have to show if you wanted to hire a car ? ",
+      "Cevap": " Drivers Licence",
+      "Aktif": 1
+    },
+    {
+      "No": 175,
+      "Soru": "What do you pay when you park in a wrong place? ",
+      "Cevap": " Fine\/parking fine.",
+      "Aktif": 1
+    },
+    {
+      "No": 176,
+      "Soru": "In addition to A, E, I, O, what is the other vowel letter? ",
+      "Cevap": " U.",
+      "Aktif": 1
+    },
+    {
+      "No": 177,
+      "Soru": "What do you call a group of mountains? ",
+      "Cevap": " Range.",
+      "Aktif": 1
+    },
+    {
+      "No": 178,
+      "Soru": "What do you call the person who is guilty in law term? ",
+      "Cevap": " Criminal.",
+      "Aktif": 1
+    },
+    {
+      "No": 179,
+      "Soru": "When you mix black and white, what color would you get? ",
+      "Cevap": " Gray",
+      "Aktif": 1
+    },
+    {
+      "No": 180,
+      "Soru": "Pedestri travel by what? ",
+      "Cevap": " By foot.",
+      "Aktif": 1
+    },
+    {
+      "No": 181,
+      "Soru": "What kind of educational institution does a 10-year-old child study in?",
+      "Cevap": "Primary school,Elementary School.",
+      "Aktif": 1
+    },
+    {
+      "No": 182,
+      "Soru": "What is the ground military force? ",
+      "Cevap": " Army.",
+      "Aktif": 1
+    },
+    {
+      "No": 183,
+      "Soru": "What do bees collect from the center of flowers? ",
+      "Cevap": " Pollen.",
+      "Aktif": 1
+    },
+    {
+      "No": 184,
+      "Soru": "How many hemispheres does the equator divide the globe into? ",
+      "Cevap": " Two.",
+      "Aktif": 1
+    },
+    {
+      "No": 185,
+      "Soru": "What do we call the legal document that states how peoples property should be allotted aftertheir deaths? ",
+      "Cevap": " Will.",
+      "Aktif": 1
+    },
+    {
+      "No": 186,
+      "Soru": "What do you call the son of your sister or brother? ",
+      "Cevap": " Nephew.",
+      "Aktif": 1
+    },
+    {
+      "No": 187,
+      "Soru": "What is the nominal form of the wide? ",
+      "Cevap": " Width.",
+      "Aktif": 1
+    },
+    {
+      "No": 188,
+      "Soru": "How would you describe an animal that no longer exist on the earth?",
+      "Cevap": "Extinct",
+      "Aktif": 1
+    },
+    {
+      "No": 189,
+      "Soru": "What medal does a champion get? ",
+      "Cevap": " A gold medal.",
+      "Aktif": 1
+    },
+    {
+      "No": 190,
+      "Soru": "How do you call the buildings of a university or college and the land around them?",
+      "Cevap": " Campus",
+      "Aktif": 1
+    },
+    {
+      "No": 191,
+      "Soru": "What is the name for students in universities who have not yet graduated?",
+      "Cevap": " Undergraduates.",
+      "Aktif": 1
+    },
+    {
+      "No": 192,
+      "Soru": "When you have the primary, and the secondary, what do you have next? ",
+      "Cevap": " Tertiary.",
+      "Aktif": 1
+    },
+    {
+      "No": 193,
+      "Soru": "Who sits in the cockpit of an airplane? ",
+      "Cevap": " Pilot",
+      "Aktif": 1
+    },
+    {
+      "No": 194,
+      "Soru": "Which part of the body do mammals use to feed their next generations? ",
+      "Cevap": " Breast.",
+      "Aktif": 1
+    },
+    {
+      "No": 195,
+      "Soru": "What material are windows made of? ",
+      "Cevap": " Glass.",
+      "Aktif": 1
+    },
+    {
+      "No": 196,
+      "Soru": "What do people with claustrophobia fear? ",
+      "Cevap": " Confined space.",
+      "Aktif": 1
+    },
+    {
+      "No": 197,
+      "Soru": "What is the description of events that is spoken with background music during a film or aplay? ",
+      "Cevap": " Narration.",
+      "Aktif": 1
+    },
+    {
+      "No": 198,
+      "Soru": "What do you call the persons who study religions? ",
+      "Cevap": "Theologians\/theologists.",
+      "Aktif": 1
+    },
+    {
+      "No": 199,
+      "Soru": "What is the string on shoes? ",
+      "Cevap": " Shoelace, bootlace, cord.",
+      "Aktif": 1
+    },
+    {
+      "No": 200,
+      "Soru": "What is the smallest unit of computer memory? ",
+      "Cevap": " Bit.",
+      "Aktif": 1
+    },
+    {
+      "No": 201,
+      "Soru": "Who do you consult, when suffering from fever? ",
+      "Cevap": " Doctor.",
+      "Aktif": 1
+    },
+    {
+      "No": 202,
+      "Soru": "What is the device that controls electrical appliances on and off?",
+      "Cevap": " Switch.",
+      "Aktif": 1
+    },
+    {
+      "No": 203,
+      "Soru": "How many years does a centennial celebrate? ",
+      "Cevap": " 100 years.",
+      "Aktif": 1
+    },
+    {
+      "No": 204,
+      "Soru": "What do we call a festival which is held every four years gathering people together as asporting event? ",
+      "Cevap": " Olympics Games.",
+      "Aktif": 1
+    },
+    {
+      "No": 205,
+      "Soru": "What can bring astronauts to space? ",
+      "Cevap": " Spacecraft.",
+      "Aktif": 1
+    },
+    {
+      "No": 206,
+      "Soru": "What is the act of students being present at school? ",
+      "Cevap": " Attendance.",
+      "Aktif": 1
+    },
+    {
+      "No": 207,
+      "Soru": "What do we call the building that doctors and nurses work in? wer",
+      "Cevap": " Hospital \/clinic.",
+      "Aktif": 1
+    },
+    {
+      "No": 208,
+      "Soru": "What do we call a reward paid to an employee at the end of the year?",
+      "Cevap": "Year-end bonus.",
+      "Aktif": 1
+    },
+    {
+      "No": 209,
+      "Soru": "What do we call a person who is registered for the election?",
+      "Cevap": " Candidate.",
+      "Aktif": 1
+    },
+    {
+      "No": 210,
+      "Soru": "What do we call a person who does a job without being paid? ",
+      "Cevap": " Volunteer.",
+      "Aktif": 1
+    },
+    {
+      "No": 211,
+      "Soru": "What is the subject studying the nature of society? ",
+      "Cevap": " Sociology.",
+      "Aktif": 1
+    },
+    {
+      "No": 212,
+      "Soru": "We call a person used to using the right hand a right-hander, and what do we call a person if the left hand?",
+      "Cevap": "Left-hander",
+      "Aktif": 1
+    },
+    {
+      "No": 213,
+      "Soru": "What do we call a photo of a person's face taken from the side? ",
+      "Cevap": " Profile.",
+      "Aktif": 1
+    },
+    {
+      "No": 214,
+      "Soru": "What do we call comments in a movie given by a person unseen on the screen? ",
+      "Cevap": " Voice over.",
+      "Aktif": 1
+    },
+    {
+      "No": 215,
+      "Soru": "What do we call a list of the times when classes in school happen? ",
+      "Cevap": " Curriculum table.",
+      "Aktif": 1
+    },
+    {
+      "No": 216,
+      "Soru": "What are the imaginary lines that run around the earth vertically? ",
+      "Cevap": " Longitude.",
+      "Aktif": 1
+    },
+    {
+      "No": 217,
+      "Soru": "What do we call a player who is going to replace another one on the field? ",
+      "Cevap": " Substitute.",
+      "Aktif": 1
+    },
+    {
+      "No": 218,
+      "Soru": "What is the process of choosing a person for a position by voting? ",
+      "Cevap": " Election.",
+      "Aktif": 1
+    },
+    {
+      "No": 219,
+      "Soru": "Where do passengers stand waiting for a train in the railway station? ",
+      "Cevap": " Platform.",
+      "Aktif": 1
+    },
+    {
+      "No": 220,
+      "Soru": "What do you call the daughter of your sister or brother? ",
+      "Cevap": " Niece.",
+      "Aktif": 1
+    },
+    {
+      "No": 221,
+      "Soru": "Who is a person who gives evidence in court? ",
+      "Cevap": " Witness.",
+      "Aktif": 1
+    },
+    {
+      "No": 222,
+      "Soru": "What is the verb that describes traveling on boat? ",
+      "Cevap": " Cruise.",
+      "Aktif": 1
+    },
+    {
+      "No": 223,
+      "Soru": "How do we describe something between continents? ",
+      "Cevap": " Intercontinental.",
+      "Aktif": 1
+    },
+    {
+      "No": 224,
+      "Soru": "What is the second month of the year? ",
+      "Cevap": " February.",
+      "Aktif": 1
+    },
+    {
+      "No": 225,
+      "Soru": "What kind of liquid do mammals feed their babies? ",
+      "Cevap": " Milk.",
+      "Aktif": 1
+    },
+    {
+      "No": 226,
+      "Soru": "Which sense is related to your ears? ",
+      "Cevap": " Hearing, auditory.",
+      "Aktif": 1
+    },
+    {
+      "No": 227,
+      "Soru": "How often does a biennial convention take place? ",
+      "Cevap": " Every two years.",
+      "Aktif": 1
+    },
+    {
+      "No": 228,
+      "Soru": "What natural resource is used by a carpenter? ",
+      "Cevap": " Wood.",
+      "Aktif": 1
+    },
+    {
+      "No": 229,
+      "Soru": "Before airplanes were invented, how did people travel from America to Europe? ",
+      "Cevap": " By ship.",
+      "Aktif": 1
+    },
+    {
+      "No": 230,
+      "Soru": "What do the following belong to: roses, daisies, tulips, etc?",
+      "Cevap": "Flowers",
+      "Aktif": 1
+    },
+    {
+      "No": 231,
+      "Soru": "What do the following terms describe: kilograms, pounds, and ounces?",
+      "Cevap": "Weight.",
+      "Aktif": 1
+    },
+    {
+      "No": 232,
+      "Soru": "When the writer of a book is unknown, what word do we use to describe the writer? ",
+      "Cevap": "Anonymous.",
+      "Aktif": 1
+    },
+    {
+      "No": 233,
+      "Soru": "Why are bees important for agriculture? ",
+      "Cevap": " Pollination",
+      "Aktif": 1
+    },
+    {
+      "No": 234,
+      "Soru": "What is the collection of comma, period, colon, exclamation marks, and question marks? ",
+      "Cevap": "Punctuation.",
+      "Aktif": 1
+    },
+    {
+      "No": 235,
+      "Soru": "What do you call a piece of equipment we use to look at stars? ",
+      "Cevap": " Telescope.",
+      "Aktif": 1
+    },
+    {
+      "No": 236,
+      "Soru": "Who is the person who works in a hospital and can do operations? ",
+      "Cevap": " Surgeon, doctor.",
+      "Aktif": 1
+    },
+    {
+      "No": 237,
+      "Soru": "What do you use to test the body temperature? ",
+      "Cevap": " Thermometer.",
+      "Aktif": 1
+    },
+    {
+      "No": 238,
+      "Soru": "When trains or cars need to go through a mountain, where do they enter the mountain? ",
+      "Cevap": "Tunnel.",
+      "Aktif": 1
+    },
+    {
+      "No": 239,
+      "Soru": "What is the first paragraph of an essay? ",
+      "Cevap": " Introduction",
+      "Aktif": 1
+    },
+    {
+      "No": 240,
+      "Soru": "What is the dictionary of synonyms and antonyms? ",
+      "Cevap": " Thesaurus.",
+      "Aktif": 1
+    },
+    {
+      "No": 241,
+      "Soru": "In the sentence: - He has been quite upset since he went back to school. Which word uses a past tense?",
+      "Cevap": "Went.",
+      "Aktif": 1
+    },
+    {
+      "No": 242,
+      "Soru": "What's the process of people paying money to governments for public services? \"",
+      "Cevap": "Taxation.",
+      "Aktif": 1
+    },
+    {
+      "No": 243,
+      "Soru": "What identification document do most people need to carry when they travel between countries? ",
+      "Cevap": " A passport.",
+      "Aktif": 1
+    },
+    {
+      "No": 244,
+      "Soru": "Would you go to a pharmacist or a surgeon to get a prescription filled after visiting a doctor? ",
+      "Cevap": " A pharmacist, chemist",
+      "Aktif": 1
+    },
+    {
+      "No": 245,
+      "Soru": "What shines at night in the sky and uses its own brightness? ",
+      "Cevap": " Star.",
+      "Aktif": 1
+    },
+    {
+      "No": 246,
+      "Soru": "What is the natural material used to make car tires? ",
+      "Cevap": " Rubber.",
+      "Aktif": 1
+    },
+    {
+      "No": 247,
+      "Soru": "When you react to a stimulus, is your response quick or slow? ",
+      "Cevap": " Quick.",
+      "Aktif": 1
+    },
+    {
+      "No": 248,
+      "Soru": "If a magazine is published quarterly, how many times a year is it published? ",
+      "Cevap": " Four (times a year).",
+      "Aktif": 1
+    },
+    {
+      "No": 249,
+      "Soru": "What is the external organ used for hearing? ",
+      "Cevap": " Ears",
+      "Aktif": 1
+    },
+    {
+      "No": 250,
+      "Soru": "Where would you normally see crosswords? ",
+      "Cevap": " Newspaper.",
+      "Aktif": 1
+    },
+    {
+      "No": 251,
+      "Soru": "What do you call the person who plays musical instruments as a job?",
+      "Cevap": "Musician.",
+      "Aktif": 1
+    },
+    {
+      "No": 252,
+      "Soru": "Animals with white ivory and long trunk? ",
+      "Cevap": " Elephant.",
+      "Aktif": 1
+    },
+    {
+      "No": 253,
+      "Soru": "What do we call a period of 100 years? ",
+      "Cevap": " Century",
+      "Aktif": 1
+    },
+    {
+      "No": 254,
+      "Soru": "Which one me 'not limited', infinite or finite? ",
+      "Cevap": " Infinite.",
+      "Aktif": 1
+    },
+    {
+      "No": 255,
+      "Soru": "What publication reports current events every day? ",
+      "Cevap": " Newspaper.",
+      "Aktif": 1
+    },
+    {
+      "No": 256,
+      "Soru": "How many sides does a pentagon have? ",
+      "Cevap": " Five",
+      "Aktif": 1
+    },
+    {
+      "No": 257,
+      "Soru": "What device is used to measure the height of mountains?",
+      "Cevap": "Altimeter.",
+      "Aktif": 1
+    },
+    {
+      "No": 258,
+      "Soru": "What do meter and millimeter measure: weight or length?",
+      "Cevap": "Length.",
+      "Aktif": 1
+    },
+    {
+      "No": 259,
+      "Soru": "What protects birds on the outside of their bodies? ",
+      "Cevap": " Feather.",
+      "Aktif": 1
+    },
+    {
+      "No": 260,
+      "Soru": "What is the ceremony where two people get married? ",
+      "Cevap": " Wedding, marriage",
+      "Aktif": 1
+    },
+    {
+      "No": 261,
+      "Soru": "What is the horizontal line that separates the globe into two halves?",
+      "Cevap": "Equator.",
+      "Aktif": 1
+    },
+    {
+      "No": 262,
+      "Soru": "Whats the force that pushes everything to the earth? ",
+      "Cevap": " Gravity.",
+      "Aktif": 1
+    },
+    {
+      "No": 263,
+      "Soru": "What is the book that describes your own life story? ",
+      "Cevap": " Autobiography",
+      "Aktif": 1
+    },
+    {
+      "No": 264,
+      "Soru": "What are the two holes in your nose that you use to breathe? ",
+      "Cevap": " Nostrils.",
+      "Aktif": 1
+    },
+    {
+      "No": 265,
+      "Soru": "If you want to read tragedies or comedies, what genre of book do you read? ",
+      "Cevap": " Fictions\/Novels.",
+      "Aktif": 1
+    },
+    {
+      "No": 266,
+      "Soru": "What does the chemical symbol H2O stand for in chemistry? ",
+      "Cevap": " Water.",
+      "Aktif": 1
+    },
+    {
+      "No": 267,
+      "Soru": "What do we call a book that contains lots of words with their meanings ",
+      "Cevap": " Dictionary.",
+      "Aktif": 1
+    },
+    {
+      "No": 268,
+      "Soru": "What is the verb describing the process that water becomes ice? ",
+      "Cevap": " Freeze.",
+      "Aktif": 1
+    },
+    {
+      "No": 269,
+      "Soru": "If someone lives in an urban area, where do they live? ",
+      "Cevap": " City.",
+      "Aktif": 1
+    },
+    {
+      "No": 270,
+      "Soru": "If telescopes are used to locate distant objects, what instrument is employed to magnify miniscule objects? ",
+      "Cevap": " Microscope.",
+      "Aktif": 1
+    },
+    {
+      "No": 271,
+      "Soru": "How many years are celebrated in a bicentennial? ",
+      "Cevap": " Two hundred.",
+      "Aktif": 1
+    },
+    {
+      "No": 272,
+      "Soru": "What are the instructions that tell you how to cook food? ",
+      "Cevap": " Recipe.",
+      "Aktif": 1
+    },
+    {
+      "No": 273,
+      "Soru": "Who is the person who works in a hospital and can do operations? ",
+      "Cevap": " Surgeon.",
+      "Aktif": 1
+    },
+    {
+      "No": 274,
+      "Soru": "What is the piece of paper that you receive after you have bought an item? ",
+      "Cevap": " Receipt.",
+      "Aktif": 1
+    },
+    {
+      "No": 275,
+      "Soru": "What is the red fluid that flows from the heart to the rest of the body?",
+      "Cevap": "Blood.",
+      "Aktif": 1
+    },
+    {
+      "No": 276,
+      "Soru": "What are the things called that you touch with your left hand when you play the guitar? ",
+      "Cevap": " Strings.",
+      "Aktif": 1
+    },
+    {
+      "No": 277,
+      "Soru": "What device do you use to type when you use a computer? ",
+      "Cevap": " Keyboard.",
+      "Aktif": 1
+    },
+    {
+      "No": 278,
+      "Soru": "In what room do scientists usually do experiments? ",
+      "Cevap": " Laboratory.",
+      "Aktif": 1
+    },
+    {
+      "No": 279,
+      "Soru": "On what geographical location would someone be living if their country is surrounded by water on all side? ",
+      "Cevap": " Island, islet.",
+      "Aktif": 1
+    },
+    {
+      "No": 280,
+      "Soru": "How many years are there in the passage of a decade? ",
+      "Cevap": " 10 years.",
+      "Aktif": 1
+    },
+    {
+      "No": 281,
+      "Soru": "What would call a person who sells prescribed medicines? ",
+      "Cevap": " Pharmacist, Chemist.",
+      "Aktif": 1
+    },
+    {
+      "No": 282,
+      "Soru": "What do you call the strap that secures a person in a car or an aeroplane? ",
+      "Cevap": " Seatbelt.",
+      "Aktif": 1
+    },
+    {
+      "No": 283,
+      "Soru": "What is the antonym of vertical? ",
+      "Cevap": " Horizontal, flat.",
+      "Aktif": 1
+    },
+    {
+      "No": 284,
+      "Soru": "If there are 8 black balls and 1 white ball, and I randomly pick one, which color is most likely to be picked? ",
+      "Cevap": " Black.",
+      "Aktif": 1
+    },
+    {
+      "No": 285,
+      "Soru": "What is the opposite of positive=? ",
+      "Cevap": " Negative.",
+      "Aktif": 1
+    },
+    {
+      "No": 286,
+      "Soru": "What order is a bibliography usually listed in? ",
+      "Cevap": " Alphabetical order.",
+      "Aktif": 1
+    },
+    {
+      "No": 287,
+      "Soru": "What rises from the east in the morning and sets to the west in the evening every day? ",
+      "Cevap": "The Sun.",
+      "Aktif": 1
+    },
+    {
+      "No": 288,
+      "Soru": "When you get lost in a city, what do you need to buy to find out where you are and whereto go? ",
+      "Cevap": " Map.",
+      "Aktif": 1
+    },
+    {
+      "No": 289,
+      "Soru": "When something is given in a pair, how many of them are there? ",
+      "Cevap": " Two.",
+      "Aktif": 1
+    },
+    {
+      "No": 290,
+      "Soru": "What do we call the treatment in which people use needles to ease others' pain? ",
+      "Cevap": " Acupuncture.",
+      "Aktif": 1
+    },
+    {
+      "No": 291,
+      "Soru": "What do we use to launch a space shuttle? ",
+      "Cevap": " Rocket\/Booster.",
+      "Aktif": 1
+    },
+    {
+      "No": 292,
+      "Soru": "How do you describe a line that segments a circle? ",
+      "Cevap": " Chord.",
+      "Aktif": 1
+    },
+    {
+      "No": 293,
+      "Soru": "What does a Sundial measure according to the shadow in the sunlight? ",
+      "Cevap": " Time, point.",
+      "Aktif": 1
+    },
+    {
+      "No": 294,
+      "Soru": "Where do you call when fire breaks down? Fire & Rescue Services or police station? ",
+      "Cevap": " Fire and Rescue Services.",
+      "Aktif": 1
+    },
+    {
+      "No": 295,
+      "Soru": "What do you call a person who works in a garage? ",
+      "Cevap": " Mechanic.",
+      "Aktif": 1
+    },
+    {
+      "No": 296,
+      "Soru": "What is the term used to describe a period of seven days? ",
+      "Cevap": " Week.",
+      "Aktif": 1
+    },
+    {
+      "No": 297,
+      "Soru": "What do you call a natural tendency for people or animals to behave in a particular way? ",
+      "Cevap": "Instinct.",
+      "Aktif": 1
+    },
+    {
+      "No": 298,
+      "Soru": "What are the people who study history and historical evidence? ",
+      "Cevap": " Historian.",
+      "Aktif": 1
+    },
+    {
+      "No": 299,
+      "Soru": "What do you throw underwater to keep ships staying on rivers or oce without drifting away? ",
+      "Cevap": " Anchor.",
+      "Aktif": 1
+    },
+    {
+      "No": 300,
+      "Soru": "How often does February have one extra day? ",
+      "Cevap": " Every four years.",
+      "Aktif": 1
+    },
+    {
+      "No": 301,
+      "Soru": "What do you call the people who work for a company? ",
+      "Cevap": " Employees, workers.",
+      "Aktif": 1
+    },
+    {
+      "No": 302,
+      "Soru": "What is the opposite of the word 'public'? ",
+      "Cevap": " Private",
+      "Aktif": 1
+    },
+    {
+      "No": 303,
+      "Soru": "What is the boat that carries people from one side of a river to the other? ",
+      "Cevap": " Ferry",
+      "Aktif": 1
+    },
+    {
+      "No": 304,
+      "Soru": "What is the opposite of division in mathematics? ",
+      "Cevap": " Multiplication.",
+      "Aktif": 1
+    },
+    {
+      "No": 305,
+      "Soru": "What is the joint connecting the foot to the leg? ",
+      "Cevap": " Ankle.",
+      "Aktif": 1
+    },
+    {
+      "No": 306,
+      "Soru": "What do we call a dream that is very frightening or unpleasant? ",
+      "Cevap": " Nightmare.",
+      "Aktif": 1
+    },
+    {
+      "No": 307,
+      "Soru": "We call numbers like one, three, five odd numbers, then what do we call numbers like two, four, six? ",
+      "Cevap": " Even numbers.",
+      "Aktif": 1
+    },
+    {
+      "No": 308,
+      "Soru": "What is the opposite of \"dangerous\"? ",
+      "Cevap": " Safe.",
+      "Aktif": 1
+    },
+    {
+      "No": 309,
+      "Soru": "What device is used for breathing? ",
+      "Cevap": " Ventilator.",
+      "Aktif": 1
+    },
+    {
+      "No": 310,
+      "Soru": "What do we call a device that cuts grass? ",
+      "Cevap": " Mower.",
+      "Aktif": 1
+    },
+    {
+      "No": 311,
+      "Soru": "What do you call a seat with legs but with nothing to support your arms or back? ",
+      "Cevap": " Stool.",
+      "Aktif": 1
+    },
+    {
+      "No": 312,
+      "Soru": "If your knees are located in the centre of your legs, which centre are your elbows located in? ",
+      "Cevap": "Arms.",
+      "Aktif": 1
+    },
+    {
+      "No": 313,
+      "Soru": "What is the name of the liquid in the pen? ",
+      "Cevap": " Ink.",
+      "Aktif": 1
+    },
+    {
+      "No": 314,
+      "Soru": "What do we call a person who can speak several languages? ",
+      "Cevap": " Multilingual.",
+      "Aktif": 1
+    },
+    {
+      "No": 315,
+      "Soru": "How many legs does a tripod have? ",
+      "Cevap": " Three.",
+      "Aktif": 1
+    },
+    {
+      "No": 316,
+      "Soru": "What is the process in which a doctor finds out the illness? ",
+      "Cevap": " Diagnosis.",
+      "Aktif": 1
+    },
+    {
+      "No": 317,
+      "Soru": "What do we call the document in which a political party announces their pl before elections? ",
+      "Cevap": " Manifesto.",
+      "Aktif": 1
+    },
+    {
+      "No": 318,
+      "Soru": "What do you call a leave which is taken for a general reason? ",
+      "Cevap": " Casual leave.",
+      "Aktif": 1
+    },
+    {
+      "No": 319,
+      "Soru": "What do Internet websites sometimes require you to enter to get a discount on shopping? ",
+      "Cevap": " Voucher\/coupon.",
+      "Aktif": 1
+    },
+    {
+      "No": 320,
+      "Soru": "What is the direction of the longitude lines on the earth's surface? ",
+      "Cevap": " Vertical.",
+      "Aktif": 1
+    },
+    {
+      "No": 321,
+      "Soru": "What is the opposite of multiple? ",
+      "Cevap": " Single.",
+      "Aktif": 1
+    },
+    {
+      "No": 322,
+      "Soru": "What do we call the opening in the face used for speaking and eating? ",
+      "Cevap": " Mouth.",
+      "Aktif": 1
+    },
+    {
+      "No": 323,
+      "Soru": "What is the bone structure that protects the brain? ",
+      "Cevap": " Skull.",
+      "Aktif": 1
+    },
+    {
+      "No": 324,
+      "Soru": "What do we call a person who attacks and robs ships at sea? ",
+      "Cevap": " Pirate.",
+      "Aktif": 1
+    },
+    {
+      "No": 325,
+      "Soru": "What do we call a person whose job is cutting up and selling meat? ",
+      "Cevap": " Butcher.",
+      "Aktif": 1
+    },
+    {
+      "No": 326,
+      "Soru": "What do we call the head of a court? ",
+      "Cevap": " Judge.",
+      "Aktif": 1
+    },
+    {
+      "No": 327,
+      "Soru": "Where do passengers wait for airplanes? ",
+      "Cevap": " Terminal\/Airport.",
+      "Aktif": 1
+    },
+    {
+      "No": 328,
+      "Soru": "What category do crystals, rubies, and diamonds belong to? ",
+      "Cevap": " Gem.",
+      "Aktif": 1
+    },
+    {
+      "No": 329,
+      "Soru": "What do you call your nephew's dad? ",
+      "Cevap": " Brother.",
+      "Aktif": 1
+    },
+    {
+      "No": 330,
+      "Soru": "Which one would a vegetarian most likely eat, Chicken sandwiches or fruit salad? ",
+      "Cevap": " Fruitsalad.",
+      "Aktif": 1
+    },
+    {
+      "No": 331,
+      "Soru": "What do we call the cloth that covers the screen after a movie ends in cinema? ",
+      "Cevap": " Curtain.",
+      "Aktif": 1
+    },
+    {
+      "No": 332,
+      "Soru": "What do people usually use to cut food? ",
+      "Cevap": " Knife.",
+      "Aktif": 1
+    },
+    {
+      "No": 333,
+      "Soru": "What part of a plant has petals? ",
+      "Cevap": " Flowers.",
+      "Aktif": 1
+    },
+    {
+      "No": 334,
+      "Soru": "What is the subject to study the past events? ",
+      "Cevap": " History.",
+      "Aktif": 1
+    },
+    {
+      "No": 335,
+      "Soru": "What do we call a section or a part of a book? ",
+      "Cevap": " Chapter.",
+      "Aktif": 1
+    },
+    {
+      "No": 336,
+      "Soru": "What is the main building of a large company or an organization? ",
+      "Cevap": " Headquarters.",
+      "Aktif": 1
+    },
+    {
+      "No": 337,
+      "Soru": "What is the star that gives heat and light to the Earth? ",
+      "Cevap": " Sun.",
+      "Aktif": 1
+    },
+    {
+      "No": 338,
+      "Soru": "What is the adjective opposite to 'rural'? ",
+      "Cevap": " Urban.",
+      "Aktif": 1
+    },
+    {
+      "No": 339,
+      "Soru": "What is the storyline or the series of scenes of novels, movies, short stories or plays? ",
+      "Cevap": " Plot.",
+      "Aktif": 1
+    },
+    {
+      "No": 340,
+      "Soru": "What do we call a group of mountains such as the Himalayas? ",
+      "Cevap": " Range.",
+      "Aktif": 1
+    },
+    {
+      "No": 341,
+      "Soru": "What do we call the joint that joins the leg to the rest of the body? ",
+      "Cevap": " Hip joint.",
+      "Aktif": 1
+    },
+    {
+      "No": 342,
+      "Soru": "What instrument would you use when you want to weigh something up? ",
+      "Cevap": " Scale.",
+      "Aktif": 1
+    },
+    {
+      "No": 343,
+      "Soru": "\u00a0What do we call a person who buys things in a shop? ",
+      "Cevap": " Customer\/buyer.",
+      "Aktif": 1
+    },
+    {
+      "No": 344,
+      "Soru": "How do you call the money that you pay in advance for receiving newspapers or journals? ",
+      "Cevap": "Subscription",
+      "Aktif": 1
+    },
+    {
+      "No": 345,
+      "Soru": "How many sides does an octagon have? ",
+      "Cevap": " Eight",
+      "Aktif": 1
+    },
+    {
+      "No": 346,
+      "Soru": "Would you go to a pharmacist or a surgeon with a prescription after visiting a doctor? ",
+      "Cevap": " Pharmacist.",
+      "Aktif": 1
+    },
+    {
+      "No": 347,
+      "Soru": "What do pedestri move by? ",
+      "Cevap": " Foot\/feet.",
+      "Aktif": 1
+    },
+    {
+      "No": 348,
+      "Soru": "What will ice become when it melts? ",
+      "Cevap": " Water.",
+      "Aktif": 1
+    },
+    {
+      "No": 349,
+      "Soru": "\u00a0What are buses, trains, and cars used for? ",
+      "Cevap": " Travel\/transport\/transportation.",
+      "Aktif": 1
+    },
+    {
+      "No": 350,
+      "Soru": "What is the joint between your shoulder and your forearm? ",
+      "Cevap": " Elbow.",
+      "Aktif": 1
+    },
+    {
+      "No": 351,
+      "Soru": "What org in your body are for chewing? ",
+      "Cevap": " Teeth.",
+      "Aktif": 1
+    },
+    {
+      "No": 352,
+      "Soru": "What do you call someone who cannot speak? ",
+      "Cevap": " Dumb.",
+      "Aktif": 1
+    },
+    {
+      "No": 353,
+      "Soru": "When your bone is injured and broken, what would you say you have?",
+      "Cevap": " Fracture.",
+      "Aktif": 1
+    },
+    {
+      "No": 354,
+      "Soru": "How many quarters in a calendar year? ",
+      "Cevap": " Four.",
+      "Aktif": 1
+    },
+    {
+      "No": 355,
+      "Soru": "How do we call 7 days in time period? ",
+      "Cevap": " Week.",
+      "Aktif": 1
+    },
+    {
+      "No": 356,
+      "Soru": "What we call it if trees are cut down in a large area? ",
+      "Cevap": " Deforestation.",
+      "Aktif": 1
+    },
+    {
+      "No": 357,
+      "Soru": "What do we call a book containing writings on a particular theme?",
+      "Cevap": "Compilation.",
+      "Aktif": 1
+    },
+    {
+      "No": 358,
+      "Soru": "How do we describe a person unable to pay his or her debts? ",
+      "Cevap": "Insolvent\/bankrupt.",
+      "Aktif": 1
+    },
+    {
+      "No": 359,
+      "Soru": "What do we call a room or building where dead bodies are kept before they are buried? ",
+      "Cevap": " Mortuary.",
+      "Aktif": 1
+    },
+    {
+      "No": 360,
+      "Soru": "What do we call a person who f\u0131ghts against the government? ",
+      "Cevap": " Rebel.",
+      "Aktif": 1
+    },
+    {
+      "No": 361,
+      "Soru": "What do we call one thousand years? ",
+      "Cevap": " Millennium.",
+      "Aktif": 1
+    },
+    {
+      "No": 362,
+      "Soru": "\u00a0What do we call a set of wers to exercises or problems? ",
+      "Cevap": " Key.",
+      "Aktif": 1
+    },
+    {
+      "No": 363,
+      "Soru": "\u00a0What do we call a material that helps to insulate the burn? ",
+      "Cevap": " Fireproof material.",
+      "Aktif": 1
+    },
+    {
+      "No": 364,
+      "Soru": "What is the room in which you keep things when you don't need them? ",
+      "Cevap": " Storeroom.",
+      "Aktif": 1
+    },
+    {
+      "No": 365,
+      "Soru": "What does 'MBA' stand for? ",
+      "Cevap": " Master of Business Administration.",
+      "Aktif": 1
+    },
+    {
+      "No": 366,
+      "Soru": "What do we call the extra working time? ",
+      "Cevap": " Overtime.",
+      "Aktif": 1
+    },
+    {
+      "No": 367,
+      "Soru": "What do we call a horse-like animal with a single horn on the head?",
+      "Cevap": "Unicorn",
+      "Aktif": 1
+    },
+    {
+      "No": 368,
+      "Soru": "How would you call people who study ancient bones, rocks and plants?",
+      "Cevap": " Archaeologist.",
+      "Aktif": 1
+    },
+    {
+      "No": 369,
+      "Soru": "Some calendars begin the week on Sunday, what is the other day which commonly starts a week? ",
+      "Cevap": " Monday.",
+      "Aktif": 1
+    },
+    {
+      "No": 370,
+      "Soru": "Where are you going if you are in a downward direction in a map?",
+      "Cevap": "South.",
+      "Aktif": 1
+    },
+    {
+      "No": 371,
+      "Soru": "What is the device that shows the time of the day according to the shadow of sunlight? ",
+      "Cevap": " Sundial.",
+      "Aktif": 1
+    },
+    {
+      "No": 372,
+      "Soru": "Which continent do China, India, and Japan belong to? ",
+      "Cevap": " Asia.",
+      "Aktif": 1
+    },
+    {
+      "No": 373,
+      "Soru": "If you are celebrating a biennial activity, how many years ago did you celebrate it last time? ",
+      "Cevap": " Two.",
+      "Aktif": 1
+    },
+    {
+      "No": 374,
+      "Soru": "What do you call the people who travel to visit famous sightseeing locations? ",
+      "Cevap": "Tourists.",
+      "Aktif": 1
+    },
+    {
+      "No": 375,
+      "Soru": "If knees are located in your legs, where are elbows located? ",
+      "Cevap": " Arms.",
+      "Aktif": 1
+    },
+    {
+      "No": 376,
+      "Soru": "How do you describe the line that divide a circle into the same half?",
+      "Cevap": "Diameter.",
+      "Aktif": 1
+    },
+    {
+      "No": 377,
+      "Soru": "What is the opposite of a synonym? ",
+      "Cevap": " Antonym.",
+      "Aktif": 1
+    },
+    {
+      "No": 378,
+      "Soru": "What do you call a person who lives next to your house? ",
+      "Cevap": " Neighbour.",
+      "Aktif": 1
+    },
+    {
+      "No": 379,
+      "Soru": "What is the opposite of 'wet'? ",
+      "Cevap": " Dry.",
+      "Aktif": 1
+    },
+    {
+      "No": 380,
+      "Soru": "Would you go to a pharmacist or a surgeon with a prescription after visiting a doctor? ",
+      "Cevap": " Pharmacist.",
+      "Aktif": 1
+    },
+    {
+      "No": 381,
+      "Soru": "What do pedestri move by? ",
+      "Cevap": " Foot\/feet.",
+      "Aktif": 1
+    },
+    {
+      "No": 382,
+      "Soru": "What will ice become when it melts? ",
+      "Cevap": " Water.",
+      "Aktif": 1
+    },
+    {
+      "No": 383,
+      "Soru": "What are buses, trains, and cars used for? ",
+      "Cevap": " Travel\/transport\/transportation.",
+      "Aktif": 1
+    },
+    {
+      "No": 384,
+      "Soru": "What is the joint between your shoulder and your forearm? ",
+      "Cevap": " Elbow.",
+      "Aktif": 1
+    },
+    {
+      "No": 385,
+      "Soru": "What org in your body are for chewing? ",
+      "Cevap": " Teeth.",
+      "Aktif": 1
+    },
+    {
+      "No": 386,
+      "Soru": "What do you call someone who cannot speak? ",
+      "Cevap": " Dumb.",
+      "Aktif": 1
+    },
+    {
+      "No": 387,
+      "Soru": "When your bone is injured and broken, what would you say you have?",
+      "Cevap": " Fracture.",
+      "Aktif": 1
+    },
+    {
+      "No": 388,
+      "Soru": "How many quarters in a calendar year? ",
+      "Cevap": " Four.",
+      "Aktif": 1
+    },
+    {
+      "No": 389,
+      "Soru": "How do we call 7 days in time period? ",
+      "Cevap": " Week.",
+      "Aktif": 1
+    },
+    {
+      "No": 390,
+      "Soru": "What we call it if trees are cut down in a large area? ",
+      "Cevap": " Deforestation.",
+      "Aktif": 1
+    },
+    {
+      "No": 391,
+      "Soru": "What do we call a book containing writings on a particular theme?",
+      "Cevap": "Compilation.",
+      "Aktif": 1
+    },
+    {
+      "No": 392,
+      "Soru": "How do we describe a person unable to pay his or her debts? ",
+      "Cevap": " Insolvent\/bankrupt.",
+      "Aktif": 1
+    },
+    {
+      "No": 393,
+      "Soru": "What do we call a room or building where dead bodies are kept before they are buried? ",
+      "Cevap": " Mortuary.",
+      "Aktif": 1
+    },
+    {
+      "No": 394,
+      "Soru": "What do we call a person who fights against the government? ",
+      "Cevap": " Rebel.",
+      "Aktif": 1
+    },
+    {
+      "No": 395,
+      "Soru": "What do we call one thousand years? ",
+      "Cevap": " Millennium.",
+      "Aktif": 1
+    },
+    {
+      "No": 396,
+      "Soru": "What do we call a set of wers to exercises or problems? ",
+      "Cevap": " Key.",
+      "Aktif": 1
+    },
+    {
+      "No": 397,
+      "Soru": "What do we call a material that helps to insulate the burn? ",
+      "Cevap": " Fireproof material.",
+      "Aktif": 1
+    },
+    {
+      "No": 398,
+      "Soru": "What is the room in which you keep things when you don't need them? ",
+      "Cevap": "Storeroom.",
+      "Aktif": 1
+    },
+    {
+      "No": 399,
+      "Soru": "What does 'MBA' stand for? ",
+      "Cevap": " Master of Business Administration.",
+      "Aktif": 1
+    },
+    {
+      "No": 400,
+      "Soru": "What do we call the extra working time? ",
+      "Cevap": " Overtime.",
+      "Aktif": 1
+    },
+    {
+      "No": 401,
+      "Soru": "What do we call a horse-like animal with a single horn on the head?",
+      "Cevap": "Unicorn",
+      "Aktif": 1
+    },
+    {
+      "No": 402,
+      "Soru": "How would you call people who study ancient bones, rocks and plants? ",
+      "Cevap": "Archaeologist.",
+      "Aktif": 1
+    },
+    {
+      "No": 403,
+      "Soru": "Some calendars begin the week on Sunday, what is the other day which commonly starts a week? ",
+      "Cevap": " Monday.",
+      "Aktif": 1
+    },
+    {
+      "No": 404,
+      "Soru": "Where are you going if you are in a downward direction in a map?",
+      "Cevap": "South.",
+      "Aktif": 1
+    },
+    {
+      "No": 405,
+      "Soru": "What is the device that shows the time of the day according to the shadow of sunlight? ",
+      "Cevap": " Sundial.",
+      "Aktif": 1
+    },
+    {
+      "No": 406,
+      "Soru": "Which continent do China, India, and Japan belong to? ",
+      "Cevap": " Asia.",
+      "Aktif": 1
+    },
+    {
+      "No": 407,
+      "Soru": "If you are celebrating a biennial activity, how many years ago did you celebrate it last time? ",
+      "Cevap": " Two.",
+      "Aktif": 1
+    },
+    {
+      "No": 408,
+      "Soru": "What do you call the people who travel to visit famous sightseeing locations? ",
+      "Cevap": " Tourists.",
+      "Aktif": 1
+    },
+    {
+      "No": 409,
+      "Soru": "If knees are located in your legs, where are elbows located? ",
+      "Cevap": " Arms.",
+      "Aktif": 1
+    },
+    {
+      "No": 410,
+      "Soru": "How do you describe the line that divide a circle into the same half?",
+      "Cevap": "Diameter.",
+      "Aktif": 1
+    },
+    {
+      "No": 411,
+      "Soru": "What is the opposite of a synonym? ",
+      "Cevap": " Antonym.",
+      "Aktif": 1
+    },
+    {
+      "No": 412,
+      "Soru": "What do you call a person who lives next to your house? ",
+      "Cevap": " Neighbour..",
+      "Aktif": 1
+    },
+    {
+      "No": 413,
+      "Soru": "What is the opposite of 'wet'? ",
+      "Cevap": " Dry.",
+      "Aktif": 1
+    },
+    {
+      "No": 414,
+      "Soru": "What do we call a group of people who are responsible for governing a country?",
+      "Cevap": " Government.",
+      "Aktif": 1
+    },
+    {
+      "No": 415,
+      "Soru": "What is 'BA' for, such as history and literature? ",
+      "Cevap": " Bachelor of arts.",
+      "Aktif": 1
+    },
+    {
+      "No": 416,
+      "Soru": "What do we call the opposite of destiny? ",
+      "Cevap": " Free will.",
+      "Aktif": 1
+    },
+    {
+      "No": 417,
+      "Soru": "What do we call a ship that carries goods from one place to another?",
+      "Cevap": " Freighter \/ cargo ship.",
+      "Aktif": 1
+    },
+    {
+      "No": 418,
+      "Soru": "What part of the day does a sunrise happen in? ",
+      "Cevap": " Dawn.",
+      "Aktif": 1
+    },
+    {
+      "No": 419,
+      "Soru": "What part of a room is over your head? ",
+      "Cevap": " Ceiling.",
+      "Aktif": 1
+    },
+    {
+      "No": 420,
+      "Soru": "What do we call a piece of artif\u0131cial hair worn by a judge in some courts of law?",
+      "Cevap": " Hairpiece\/wig.",
+      "Aktif": 1
+    },
+    {
+      "No": 421,
+      "Soru": "What do we call a short piece of writing containing the main ideas in a document? ",
+      "Cevap": " Abstract \/ summary.",
+      "Aktif": 1
+    },
+    {
+      "No": 422,
+      "Soru": "What do we call buying and trporting goods from another country? ",
+      "Cevap": " Import.",
+      "Aktif": 1
+    },
+    {
+      "No": 423,
+      "Soru": "Which is the season of the year when plants start growing again? ",
+      "Cevap": " Spring.",
+      "Aktif": 1
+    },
+    {
+      "No": 424,
+      "Soru": "What color do you get if you mix red and yellow? ",
+      "Cevap": " Orange.",
+      "Aktif": 1
+    },
+    {
+      "No": 425,
+      "Soru": "What do you call the part of the theatre where actors perform? ",
+      "Cevap": " Stage.",
+      "Aktif": 1
+    },
+    {
+      "No": 426,
+      "Soru": "Which is the shortest month of the year? ",
+      "Cevap": " February.",
+      "Aktif": 1
+    },
+    {
+      "No": 427,
+      "Soru": "Who should you go to see if you don't feel well? ",
+      "Cevap": " Doctor.",
+      "Aktif": 1
+    },
+    {
+      "No": 428,
+      "Soru": "What do you use to call or text a friend? ",
+      "Cevap": " Cell phone\/mobile phone.",
+      "Aktif": 1
+    },
+    {
+      "No": 429,
+      "Soru": "If you ask someone how old they are, what do you want to know? ",
+      "Cevap": " Age.",
+      "Aktif": 1
+    },
+    {
+      "No": 430,
+      "Soru": "What do you get if you successfully complete a university course? ",
+      "Cevap": " Diploma.",
+      "Aktif": 1
+    },
+    {
+      "No": 431,
+      "Soru": "What do we call the head of a university department? ",
+      "Cevap": " Dean.",
+      "Aktif": 1
+    },
+    {
+      "No": 432,
+      "Soru": "What drink do people get from cows? ",
+      "Cevap": " Milk.",
+      "Aktif": 1
+    },
+    {
+      "No": 433,
+      "Soru": "What does a guitarist pluck when playing the instrument? ",
+      "Cevap": " String.",
+      "Aktif": 1
+    },
+    {
+      "No": 434,
+      "Soru": "What do judges, solicitors and barristers have to be experts in? ",
+      "Cevap": " Law.",
+      "Aktif": 1
+    },
+    {
+      "No": 435,
+      "Soru": "How do we describe a person who does something at the right time? ",
+      "Cevap": " Punctual.",
+      "Aktif": 1
+    },
+    {
+      "No": 436,
+      "Soru": "What do we call a picture sent from the post office without an envelope? ",
+      "Cevap": "Postcard.",
+      "Aktif": 1
+    },
+    {
+      "No": 437,
+      "Soru": "What do we call all the staff of a department in a college? ",
+      "Cevap": " Faculty.",
+      "Aktif": 1
+    },
+    {
+      "No": 438,
+      "Soru": "What is the specialized study in the field of electricity? ",
+      "Cevap": " Electronics.",
+      "Aktif": 1
+    },
+    {
+      "No": 439,
+      "Soru": "What do we call the passages between the rows of seats in the theater? ",
+      "Cevap": " Aisles.",
+      "Aktif": 1
+    },
+    {
+      "No": 440,
+      "Soru": "By what word do you describe something unlimited or unrestricted in terms of number, quantity, or extent? ",
+      "Cevap": " Infinity",
+      "Aktif": 1
+    },
+    {
+      "No": 441,
+      "Soru": "What do we call a group of people who are responsible for governing a country?",
+      "Cevap": " Government.",
+      "Aktif": 1
+    },
+    {
+      "No": 442,
+      "Soru": "What is 'BA' for, such as history and literature? ",
+      "Cevap": " Bachelor of arts.",
+      "Aktif": 1
+    },
+    {
+      "No": 443,
+      "Soru": "What do we call the opposite of destiny? ",
+      "Cevap": " Free will.",
+      "Aktif": 1
+    },
+    {
+      "No": 444,
+      "Soru": "What do we call a ship that carries goods from one place to another?",
+      "Cevap": " Freighter \/ cargo ship.",
+      "Aktif": 1
+    },
+    {
+      "No": 445,
+      "Soru": "What part of the day does a sunrise happen in? ",
+      "Cevap": " Dawn.",
+      "Aktif": 1
+    },
+    {
+      "No": 446,
+      "Soru": "What part of a room is over your head? ",
+      "Cevap": " Ceiling.",
+      "Aktif": 1
+    },
+    {
+      "No": 447,
+      "Soru": "What do we call a piece of artif\u0131cial hair worn by a judge in some courts of law?",
+      "Cevap": " Hairpiece\/wig.",
+      "Aktif": 1
+    },
+    {
+      "No": 448,
+      "Soru": "What do we call a short piece of writing containing the main ideas in a document? ",
+      "Cevap": " Abstract \/ summary.",
+      "Aktif": 1
+    },
+    {
+      "No": 449,
+      "Soru": "What do we call buying and trporting goods from another country? ",
+      "Cevap": " Import.",
+      "Aktif": 1
+    },
+    {
+      "No": 450,
+      "Soru": "Which is the season of the year when plants start growing again? ",
+      "Cevap": " Spring.",
+      "Aktif": 1
+    },
+    {
+      "No": 451,
+      "Soru": "What color do you get if you mix red and yellow? ",
+      "Cevap": " Orange.",
+      "Aktif": 1
+    },
+    {
+      "No": 452,
+      "Soru": "What do you call the part of the theatre where actors perform? ",
+      "Cevap": " Stage.",
+      "Aktif": 1
+    },
+    {
+      "No": 453,
+      "Soru": "Which is the shortest month of the year? ",
+      "Cevap": " February.",
+      "Aktif": 1
+    },
+    {
+      "No": 454,
+      "Soru": "Who should you go to see if you don't feel well? ",
+      "Cevap": " Doctor.",
+      "Aktif": 1
+    },
+    {
+      "No": 455,
+      "Soru": "What do you use to call or text a friend? ",
+      "Cevap": " Cell phone\/mobile phone.",
+      "Aktif": 1
+    },
+    {
+      "No": 456,
+      "Soru": "If you ask someone how old they are, what do you want to know? ",
+      "Cevap": " Age.",
+      "Aktif": 1
+    },
+    {
+      "No": 457,
+      "Soru": "What do you get if you successfully complete a university course? ",
+      "Cevap": " Diploma.",
+      "Aktif": 1
+    },
+    {
+      "No": 458,
+      "Soru": "What do we call the head of a university department? ",
+      "Cevap": " Dean.",
+      "Aktif": 1
+    },
+    {
+      "No": 459,
+      "Soru": "What drink do people get from cows? ",
+      "Cevap": " Milk.",
+      "Aktif": 1
+    },
+    {
+      "No": 460,
+      "Soru": "What does a guitarist pluck when playing the instrument? ",
+      "Cevap": " String.",
+      "Aktif": 1
+    },
+    {
+      "No": 461,
+      "Soru": "What do judges, solicitors and barristers have to be experts in? ",
+      "Cevap": " Law.",
+      "Aktif": 1
+    },
+    {
+      "No": 462,
+      "Soru": "How do we describe a person who does something at the right time? ",
+      "Cevap": " Punctual.",
+      "Aktif": 1
+    },
+    {
+      "No": 463,
+      "Soru": "What do we call a picture sent from the post office without an envelope? ",
+      "Cevap": "Postcard.",
+      "Aktif": 1
+    },
+    {
+      "No": 464,
+      "Soru": "What do we call all the staff of a department in a college? ",
+      "Cevap": " Faculty.",
+      "Aktif": 1
+    },
+    {
+      "No": 465,
+      "Soru": "What is the specialized study in the f\u0131eld of electricity? ",
+      "Cevap": " Electronics.",
+      "Aktif": 1
+    },
+    {
+      "No": 466,
+      "Soru": "What do we call the passages between the rows of seats in the theater? ",
+      "Cevap": " Aisles.",
+      "Aktif": 1
+    },
+    {
+      "No": 467,
+      "Soru": "By what word do you describe something unlimited or unrestricted in terms of number, quantity, or extent? ",
+      "Cevap": " Infinity",
+      "Aktif": 1
+    },
+    {
+      "No": 468,
+      "Soru": "Who specialises in the study of psychological effect of words? ",
+      "Cevap": " Psychologist",
+      "Aktif": 1
+    },
+    {
+      "No": 469,
+      "Soru": "Who specialises in the study of earth and its composition? ",
+      "Cevap": " Geologist",
+      "Aktif": 1
+    },
+    {
+      "No": 470,
+      "Soru": "What emergency service is usually called when someone is in trouble at sea? ",
+      "Cevap": " Coastguard",
+      "Aktif": 1
+    },
+    {
+      "No": 471,
+      "Soru": "The medical graduate serving as an apprentice in a hospital taking medical training is an? ",
+      "Cevap": " Intern",
+      "Aktif": 1
+    },
+    {
+      "No": 472,
+      "Soru": "What crime has someone stealing items from a shop committed? ",
+      "Cevap": " Shop Lifting",
+      "Aktif": 1
+    },
+    {
+      "No": 473,
+      "Soru": "Treatment of diseases by drugs whose effect on the body is the opposite of the disease. ",
+      "Cevap": " Allopathic",
+      "Aktif": 1
+    },
+    {
+      "No": 474,
+      "Soru": "The doctor who specialises in the treatment of children\u2019s diseases?",
+      "Cevap": "Paediatrician.",
+      "Aktif": 1
+    },
+    {
+      "No": 475,
+      "Soru": "What is piece of paper with official information written on it? ",
+      "Cevap": " Document",
+      "Aktif": 1
+    },
+    {
+      "No": 476,
+      "Soru": "What do we call the last game in a sporting competition, which decide the champion?",
+      "Cevap": " Finals",
+      "Aktif": 1
+    },
+    {
+      "No": 477,
+      "Soru": "What is a series of events that happen in your mind while you are sleeping? ",
+      "Cevap": " Dream",
+      "Aktif": 1
+    },
+    {
+      "No": 478,
+      "Soru": "What do you call the number of people living in a specific area? ",
+      "Cevap": " Population",
+      "Aktif": 1
+    },
+    {
+      "No": 479,
+      "Soru": "What is the most important document you would have to show if you wanted to hire a car?",
+      "Cevap": " Drivers Licence",
+      "Aktif": 1
+    },
+    {
+      "No": 480,
+      "Soru": "What is a violent conflict between two or more countries? ",
+      "Cevap": " War",
+      "Aktif": 1
+    },
+    {
+      "No": 481,
+      "Soru": "What is it called when two or more people are speaking to each other? ",
+      "Cevap": " Conversation",
+      "Aktif": 1
+    },
+    {
+      "No": 482,
+      "Soru": "What is a person belongs to an organization called? ",
+      "Cevap": " Member",
+      "Aktif": 1
+    },
+    {
+      "No": 483,
+      "Soru": "What piece of equipment shows a person what direction they are traveling? ",
+      "Cevap": " Compass",
+      "Aktif": 1
+    },
+    {
+      "No": 484,
+      "Soru": "What piece of equipment would you use for floating on the sea? ",
+      "Cevap": " Aquaplane",
+      "Aktif": 1
+    },
+    {
+      "No": 485,
+      "Soru": "What organ controls your speech, feelings, body movement and thoughts? ",
+      "Cevap": " Brain",
+      "Aktif": 1
+    },
+    {
+      "No": 486,
+      "Soru": "Who is a person that makes bread, cakes and pastries? ",
+      "Cevap": " Baker",
+      "Aktif": 1
+    },
+    {
+      "No": 487,
+      "Soru": "What do we call a picture that a doctor takes to see inside your body?",
+      "Cevap": "X-Ray",
+      "Aktif": 1
+    },
+    {
+      "No": 488,
+      "Soru": "What is the name of a system of government in which the people elect their leaders? ",
+      "Cevap": " Democracy",
+      "Aktif": 1
+    },
+    {
+      "No": 489,
+      "Soru": "What kind of punishment is less severe, an imprisonment or community service ? ",
+      "Cevap": " Community service",
+      "Aktif": 1
+    },
+    {
+      "No": 490,
+      "Soru": "Where would you most likely go to buy some flour; a bakery, a florist or a supermarket? ",
+      "Cevap": " S\u00fcpermarket",
+      "Aktif": 1
+    },
+    {
+      "No": 491,
+      "Soru": "In the animal kingdom, the purpose of camouflage to attract a mate, to find food or to hide? ",
+      "Cevap": " to hide",
+      "Aktif": 1
+    },
+    {
+      "No": 492,
+      "Soru": "What do we call it when the Moon completely blocks out the light from the Sun? ",
+      "Cevap": " Solar Eclipse",
+      "Aktif": 1
+    },
+    {
+      "No": 493,
+      "Soru": "What do you call an apartment that is below ground level? ",
+      "Cevap": " Basement apartment",
+      "Aktif": 1
+    },
+    {
+      "No": 494,
+      "Soru": "What word describes moving a program or other material from a website to your computer?",
+      "Cevap": " Downloading",
+      "Aktif": 1
+    },
+    {
+      "No": 495,
+      "Soru": "What piece of equipment would you use to go diving in the sea, an aqualung or an aquaplane? ",
+      "Cevap": " Aqualung",
+      "Aktif": 1
+    },
+    {
+      "No": 496,
+      "Soru": "A disease or accident which ends in death? ",
+      "Cevap": " Fatal",
+      "Aktif": 1
+    },
+    {
+      "No": 497,
+      "Soru": "A person who does not believe in the existence of god. ",
+      "Cevap": " Atheist",
+      "Aktif": 1
+    },
+    {
+      "No": 498,
+      "Soru": "Animals that eat flesh. ",
+      "Cevap": " Carnivorous",
+      "Aktif": 1
+    },
+    {
+      "No": 499,
+      "Soru": "A tank where fish or water plants are kept. ",
+      "Cevap": " Aquarium",
+      "Aktif": 1
+    },
+    {
+      "No": 500,
+      "Soru": "Person who believes in the existence of God ",
+      "Cevap": " Theist",
+      "Aktif": 1
+    },
+    {
+      "No": 501,
+      "Soru": "Two children born at same time ? ",
+      "Cevap": " Twins",
+      "Aktif": 1
+    },
+    {
+      "No": 502,
+      "Soru": "That which is subject to death ? ",
+      "Cevap": " Mortal",
+      "Aktif": 1
+    },
+    {
+      "No": 503,
+      "Soru": "An assembly of listeners",
+      "Cevap": "Audience",
+      "Aktif": 1
+    },
+    {
+      "No": 504,
+      "Soru": "A person who is unable to pay his debts ",
+      "Cevap": " Insolvent",
+      "Aktif": 1
+    },
+    {
+      "No": 505,
+      "Soru": "A person coming to a foreign land to settle there ",
+      "Cevap": " Immigrant",
+      "Aktif": 1
+    },
+    {
+      "No": 506,
+      "Soru": "Building in which dead bodies are kept for a time ",
+      "Cevap": " Mortuary",
+      "Aktif": 1
+    },
+    {
+      "No": 507,
+      "Soru": "A person who wishes to throw his establishment ",
+      "Cevap": " Anarchist",
+      "Aktif": 1
+    },
+    {
+      "No": 508,
+      "Soru": "Which hospital department would you go to for an x-ray: radiology or cardiology?",
+      "Cevap": "Radiology",
+      "Aktif": 1
+    },
+    {
+      "No": 509,
+      "Soru": "Which Animal is not a mammal? Butterfly, cow or Goat? ",
+      "Cevap": " Butterfly",
+      "Aktif": 1
+    },
+    {
+      "No": 510,
+      "Soru": "Would you measure the volume of bottle water in litres or Kilos ? ",
+      "Cevap": " Litres",
+      "Aktif": 1
+    },
+    {
+      "No": 511,
+      "Soru": "What do you call a system of government in which people vote for the people who will represent them? ",
+      "Cevap": " Democracy",
+      "Aktif": 1
+    },
+    {
+      "No": 512,
+      "Soru": "What do you call tax on goods produced and used in a country? ",
+      "Cevap": " Excise tax",
+      "Aktif": 1
+    },
+    {
+      "No": 513,
+      "Soru": "Whenever a person goes to an interview, would he be in an enthusiastic mood or sad mood? ",
+      "Cevap": " Enthusiastic mood",
+      "Aktif": 1
+    },
+    {
+      "No": 514,
+      "Soru": "A government where the power is concentrated in the hands of one person. ",
+      "Cevap": " Autocracy",
+      "Aktif": 1
+    },
+    {
+      "No": 515,
+      "Soru": "A country ruled by two countries. ",
+      "Cevap": " Condominium",
+      "Aktif": 1
+    },
+    {
+      "No": 516,
+      "Soru": "Name the device of computer having named same to that of an animal. ",
+      "Cevap": " Mouse",
+      "Aktif": 1
+    },
+    {
+      "No": 517,
+      "Soru": "What do you call the document that gives details about your qualification and work experience? ",
+      "Cevap": " Curriculum Vitae or Resume",
+      "Aktif": 1
+    },
+    {
+      "No": 518,
+      "Soru": "A long depression in the surface of the land that usually contains a river is called? ",
+      "Cevap": " Valley",
+      "Aktif": 1
+    },
+    {
+      "No": 519,
+      "Soru": "Where would you go to see an exhibition of sculpture? ",
+      "Cevap": " Art gallery or Museum",
+      "Aktif": 1
+    },
+    {
+      "No": 520,
+      "Soru": "At what ceremony, the students receive their degree or diploma at end of their study? ",
+      "Cevap": " Graduation day\/Convocation",
+      "Aktif": 1
+    },
+    {
+      "No": 521,
+      "Soru": "If you forget the way what will you buy to find your destination? ",
+      "Cevap": " A map",
+      "Aktif": 1
+    },
+    {
+      "No": 522,
+      "Soru": "What\u2019s the joint called where your hand is connected to your arm? ",
+      "Cevap": " Wrist",
+      "Aktif": 1
+    },
+    {
+      "No": 523,
+      "Soru": "An instrument for viewing objects at a distance. ",
+      "Cevap": " Telescope",
+      "Aktif": 1
+    },
+    {
+      "No": 524,
+      "Soru": "What is the study of stars and planets is called? ",
+      "Cevap": " Astronomy",
+      "Aktif": 1
+    },
+    {
+      "No": 525,
+      "Soru": "A person who wishes to throw his establishment. ",
+      "Cevap": " Anarchist",
+      "Aktif": 1
+    },
+    {
+      "No": 526,
+      "Soru": "What do we call the alphabetical list, at the end of the book, which tells you where to find specific information? ",
+      "Cevap": " Index\/Appendix",
+      "Aktif": 1
+    },
+    {
+      "No": 527,
+      "Soru": "Which Animal is not a mammal? Butterfly, cow or Goat? ",
+      "Cevap": " Butterfly",
+      "Aktif": 1
+    },
+    {
+      "No": 528,
+      "Soru": "In business and advertising what does PR stand for? ",
+      "Cevap": " Public Relations",
+      "Aktif": 1
+    },
+    {
+      "No": 529,
+      "Soru": "Which section of Newspapers gives the editor\u2019s opinion? ",
+      "Cevap": " Editorial",
+      "Aktif": 1
+    },
+    {
+      "No": 530,
+      "Soru": "What do we call the piece of paper that proves you have bought the item? ",
+      "Cevap": " Receipt",
+      "Aktif": 1
+    },
+    {
+      "No": 531,
+      "Soru": "How would you describe an economy based largely on farming? ",
+      "Cevap": " Agricultural or Rural",
+      "Aktif": 1
+    },
+    {
+      "No": 532,
+      "Soru": "How many years are in a decade? ",
+      "Cevap": " 10 Years",
+      "Aktif": 1
+    },
+    {
+      "No": 533,
+      "Soru": "A person who is active, lively and enjoys the company of others. ",
+      "Cevap": " Extrovert",
+      "Aktif": 1
+    },
+    {
+      "No": 534,
+      "Soru": "What special document do most people carry during international travels? ",
+      "Cevap": " Passport",
+      "Aktif": 1
+    },
+    {
+      "No": 535,
+      "Soru": "What is the name of ground military forces? ",
+      "Cevap": " Army",
+      "Aktif": 1
+    },
+    {
+      "No": 536,
+      "Soru": "What is someone that can\u2019t see called? ",
+      "Cevap": " Blind",
+      "Aktif": 1
+    },
+    {
+      "No": 537,
+      "Soru": "What do you call the middle of something? ",
+      "Cevap": " Center",
+      "Aktif": 1
+    },
+    {
+      "No": 538,
+      "Soru": "Whose job is it to treat people that are ill or have an injury at a hospital? ",
+      "Cevap": " Doctor",
+      "Aktif": 1
+    },
+    {
+      "No": 539,
+      "Soru": "What is the process of teaching and learning called? ",
+      "Cevap": " Education",
+      "Aktif": 1
+    },
+    {
+      "No": 540,
+      "Soru": "What kind of book is written by a person about their own life? ",
+      "Cevap": " Autobiography",
+      "Aktif": 1
+    },
+    {
+      "No": 541,
+      "Soru": "What is the red liquid that flows through a body? ",
+      "Cevap": " Blood",
+      "Aktif": 1
+    },
+    {
+      "No": 542,
+      "Soru": "What is the payment of a student\u2019s education by an organization called? ",
+      "Cevap": " Scholarship",
+      "Aktif": 1
+    },
+    {
+      "No": 543,
+      "Soru": "Simplest and smallest form of plant life, present in air, water and soil; essential to life but may cause disease? ",
+      "Cevap": " Bacteria",
+      "Aktif": 1
+    },
+    {
+      "No": 544,
+      "Soru": "Literary theft or passing off an author\u2019s original work as one\u2019s own",
+      "Cevap": "Plagiarism",
+      "Aktif": 1
+    },
+    {
+      "No": 545,
+      "Soru": "One who attends to sick people and prescribe medicines ",
+      "Cevap": " Physician",
+      "Aktif": 1
+    },
+    {
+      "No": 546,
+      "Soru": "Anything written in a letter after it is signed? ",
+      "Cevap": " Postscript",
+      "Aktif": 1
+    },
+    {
+      "No": 547,
+      "Soru": "What is a violent conflict between two or more countries? ",
+      "Cevap": " War",
+      "Aktif": 1
+    },
+    {
+      "No": 548,
+      "Soru": "A list of books representing some scholarly work for reference ",
+      "Cevap": " Bibliography",
+      "Aktif": 1
+    },
+    {
+      "No": 549,
+      "Soru": "The art of cultivating and managing gardens ",
+      "Cevap": " Horticulture",
+      "Aktif": 1
+    },
+    {
+      "No": 550,
+      "Soru": "An event that occurs suddenly causing a great damage or suffering",
+      "Cevap": "Catastrophe",
+      "Aktif": 1
+    },
+    {
+      "No": 551,
+      "Soru": "The property which a new wife brings to her husband ",
+      "Cevap": " Dowry",
+      "Aktif": 1
+    },
+    {
+      "No": 552,
+      "Soru": "What are the people that plant food, raise crop are commonly known as? ",
+      "Cevap": " Farmers",
+      "Aktif": 1
+    },
+    {
+      "No": 553,
+      "Soru": "A place where people may obtain food and refreshment ",
+      "Cevap": " Restaurant",
+      "Aktif": 1
+    },
+    {
+      "No": 554,
+      "Soru": "If a button has come off a shirt, what would someone most likely use to put it back on? ",
+      "Cevap": " A needle and thread",
+      "Aktif": 1
+    },
+    {
+      "No": 555,
+      "Soru": "Where do you pay for your purchases at the super market? ",
+      "Cevap": " (at) checkout",
+      "Aktif": 1
+    },
+    {
+      "No": 556,
+      "Soru": "On what geographical location would someone be living if their country is surrounded by water on all side? ",
+      "Cevap": " An island",
+      "Aktif": 1
+    },
+    {
+      "No": 557,
+      "Soru": "A nursery where children are cared for while their parents are at work ",
+      "Cevap": " Creche",
+      "Aktif": 1
+    },
+    {
+      "No": 558,
+      "Soru": "The person in-charge of library",
+      "Cevap": "Librarian",
+      "Aktif": 1
+    },
+    {
+      "No": 559,
+      "Soru": "What is it called when two or more people are speaking to each other? ",
+      "Cevap": " Conversation",
+      "Aktif": 1
+    },
+    {
+      "No": 560,
+      "Soru": "A list of headings of the business to be tracted at a meeting ",
+      "Cevap": " Agenda",
+      "Aktif": 1
+    },
+    {
+      "No": 561,
+      "Soru": "What appliance do people use to keep their food cool and preventing from spoiling? ",
+      "Cevap": " Fridge",
+      "Aktif": 1
+    },
+    {
+      "No": 562,
+      "Soru": "One who pl and draws the design of buildings and superintends their erection ",
+      "Cevap": " Architect",
+      "Aktif": 1
+    },
+    {
+      "No": 563,
+      "Soru": "The chemical breakdown of a substance by yeasts or some bacteria, etc ",
+      "Cevap": " Fermentation",
+      "Aktif": 1
+    },
+    {
+      "No": 564,
+      "Soru": "Extreme fear from strangers ",
+      "Cevap": " Xenophobia",
+      "Aktif": 1
+    },
+    {
+      "No": 565,
+      "Soru": "One who studies the past through obj ects left behind ",
+      "Cevap": "Archaeologist",
+      "Aktif": 1
+    },
+    {
+      "No": 566,
+      "Soru": "T o crossover from one side of the wide river to another without using boat, what is usually required? ",
+      "Cevap": " A bridge",
+      "Aktif": 1
+    },
+    {
+      "No": 567,
+      "Soru": "A fishes where fishes are kept ",
+      "Cevap": " Aquarium",
+      "Aktif": 1
+    },
+    {
+      "No": 568,
+      "Soru": "What general part of the day is known as dawn? ",
+      "Cevap": " A sunrise",
+      "Aktif": 1
+    },
+    {
+      "No": 569,
+      "Soru": "What is a painting of a person\u2019s head is called? ",
+      "Cevap": " A portrait",
+      "Aktif": 1
+    },
+    {
+      "No": 570,
+      "Soru": "Where do we find urban area in a city or country side? ",
+      "Cevap": " In a city",
+      "Aktif": 1
+    },
+    {
+      "No": 571,
+      "Soru": "What we call it, when moon completely blocks out the light from the sun? ",
+      "Cevap": " A solar eclipse \/ an eclipse",
+      "Aktif": 1
+    },
+    {
+      "No": 572,
+      "Soru": "What point of the compass is directly opposite east? ",
+      "Cevap": " West",
+      "Aktif": 1
+    },
+    {
+      "No": 573,
+      "Soru": "Who cuts men\u2019s hair? ",
+      "Cevap": " Barber",
+      "Aktif": 1
+    },
+    {
+      "No": 574,
+      "Soru": "What plan shows how much money is available and how it will be spent? ",
+      "Cevap": " Budget",
+      "Aktif": 1
+    },
+    {
+      "No": 575,
+      "Soru": "A plant or animal growing on another ",
+      "Cevap": " Parasite",
+      "Aktif": 1
+    },
+    {
+      "No": 576,
+      "Soru": "What is the name of ground military forces? ",
+      "Cevap": " Army",
+      "Aktif": 1
+    },
+    {
+      "No": 577,
+      "Soru": "What is someone that can\u2019t see called? ",
+      "Cevap": " Blind",
+      "Aktif": 1
+    },
+    {
+      "No": 578,
+      "Soru": "What do you call the middle of something? ",
+      "Cevap": " Centre",
+      "Aktif": 1
+    },
+    {
+      "No": 579,
+      "Soru": "Whose job is it to treat people that are ill or have an injury at a hospital? ",
+      "Cevap": " Doctor",
+      "Aktif": 1
+    },
+    {
+      "No": 580,
+      "Soru": "What is the process of teaching and learning called? ",
+      "Cevap": " Education",
+      "Aktif": 1
+    },
+    {
+      "No": 581,
+      "Soru": "What kind of book is written by a person about their own life? ",
+      "Cevap": " Autobiography",
+      "Aktif": 1
+    },
+    {
+      "No": 582,
+      "Soru": "What is the red liquid that flows through a body? ",
+      "Cevap": " Blood",
+      "Aktif": 1
+    },
+    {
+      "No": 583,
+      "Soru": "What is the payment of a student\u2019s education by an organization called? ",
+      "Cevap": " scholarship",
+      "Aktif": 1
+    },
+    {
+      "No": 584,
+      "Soru": "What is piece of paper with official information written on it? ",
+      "Cevap": " document",
+      "Aktif": 1
+    },
+    {
+      "No": 585,
+      "Soru": "What is the name of a building where you can borrow books? ",
+      "Cevap": " library",
+      "Aktif": 1
+    },
+    {
+      "No": 586,
+      "Soru": "Who is a person that makes bread, cakes and pastries? ",
+      "Cevap": " baker",
+      "Aktif": 1
+    },
+    {
+      "No": 587,
+      "Soru": "What organ controls your speech, feelings, body movement and thoughts? ",
+      "Cevap": " brain",
+      "Aktif": 1
+    },
+    {
+      "No": 588,
+      "Soru": "What piece of equipment shows a person what direction they are traveling? ",
+      "Cevap": " compass",
+      "Aktif": 1
+    },
+    {
+      "No": 589,
+      "Soru": "What is a series of events that happen in your mind while you are sleeping? ",
+      "Cevap": " dream",
+      "Aktif": 1
+    },
+    {
+      "No": 590,
+      "Soru": "What is a person belongs to an organization called? ",
+      "Cevap": " Member",
+      "Aktif": 1
+    },
+    {
+      "No": 591,
+      "Soru": "Who cuts men\u2019s hair? ",
+      "Cevap": " barber",
+      "Aktif": 1
+    },
+    {
+      "No": 592,
+      "Soru": "What is it called when two or more people are speaking to each other? ",
+      "Cevap": " Conversation",
+      "Aktif": 1
+    },
+    {
+      "No": 593,
+      "Soru": "What is a violent conflict between two or more countries? ",
+      "Cevap": " war",
+      "Aktif": 1
+    },
+    {
+      "No": 594,
+      "Soru": "What do you call the number of people living in a specific area? ",
+      "Cevap": " population",
+      "Aktif": 1
+    },
+    {
+      "No": 595,
+      "Soru": "What do you call a person that can\u2019t hear? ",
+      "Cevap": " deaf",
+      "Aktif": 1
+    },
+    {
+      "No": 596,
+      "Soru": "What is the day that someone is born? ",
+      "Cevap": " birthday",
+      "Aktif": 1
+    },
+    {
+      "No": 597,
+      "Soru": "What plan shows how much money is available and how it will be spent? ",
+      "Cevap": " budget",
+      "Aktif": 1
+    },
+    {
+      "No": 598,
+      "Soru": "What is the name of a system of government in which the people elect their leaders? ",
+      "Cevap": " Democracy",
+      "Aktif": 1
+    },
+    {
+      "No": 599,
+      "Soru": "What planet do we live on? ",
+      "Cevap": " earth",
+      "Aktif": 1
+    },
+    {
+      "No": 600,
+      "Soru": "What is the job of someone that looks after your teeth and gums? ",
+      "Cevap": " dentist",
+      "Aktif": 1
+    },
+    {
+      "No": 601,
+      "Soru": "What is the time period before noon is called? ",
+      "Cevap": " ante meridian",
+      "Aktif": 1
+    },
+    {
+      "No": 602,
+      "Soru": "What is the time after noon called? ",
+      "Cevap": " Post meridian",
+      "Aktif": 1
+    },
+    {
+      "No": 603,
+      "Soru": "What organ do cardiologists specialize in? ",
+      "Cevap": " Heart",
+      "Aktif": 1
+    },
+    {
+      "No": 604,
+      "Soru": "What is a painting of a person\u2019s head is called? ",
+      "Cevap": " a portrait",
+      "Aktif": 1
+    },
+    {
+      "No": 605,
+      "Soru": "Where do we find urban area in a city or country side? ",
+      "Cevap": " In a city",
+      "Aktif": 1
+    },
+    {
+      "No": 606,
+      "Soru": "What we call it, when moon completely blocks out the light from the sun? ",
+      "Cevap": " a solar eclipse \/ an eclipse",
+      "Aktif": 1
+    },
+    {
+      "No": 607,
+      "Soru": "What point of the compass is directly opposite east? ",
+      "Cevap": " West",
+      "Aktif": 1
+    },
+    {
+      "No": 608,
+      "Soru": "Where do you pay for your purchases at the super market? ",
+      "Cevap": " (at the) till \/ checkout",
+      "Aktif": 1
+    },
+    {
+      "No": 609,
+      "Soru": "What do you call an apartment that is beyond ground level (a basement apartment or a penthouse apartment)? ",
+      "Cevap": " a basement apartment",
+      "Aktif": 1
+    },
+    {
+      "No": 610,
+      "Soru": "What features do pianos and computers have in common? ",
+      "Cevap": " a keyboard",
+      "Aktif": 1
+    },
+    {
+      "No": 611,
+      "Soru": "If you are feeling \u2018fed up\u2019 it is positive or negative feeling? ",
+      "Cevap": " a negative feeling",
+      "Aktif": 1
+    },
+    {
+      "No": 612,
+      "Soru": "What we call a period of ten years? ",
+      "Cevap": " a decade",
+      "Aktif": 1
+    },
+    {
+      "No": 613,
+      "Soru": "A specialist who repairs leaking water pipes is called a ? ",
+      "Cevap": "Plumber",
+      "Aktif": 1
+    },
+    {
+      "No": 614,
+      "Soru": "A famous canal links the Mediterian Sea with the Indian Ocean, is it the Curran or Suez Canal? ",
+      "Cevap": " The Suez Canal",
+      "Aktif": 1
+    },
+    {
+      "No": 615,
+      "Soru": "Where would you keep the meat you wish to keep frozen at home?",
+      "Cevap": "in a freezer",
+      "Aktif": 1
+    },
+    {
+      "No": 616,
+      "Soru": "What is the most imp doc you would have to show if you would to hire a car? ",
+      "Cevap": " a driving license",
+      "Aktif": 1
+    },
+    {
+      "No": 617,
+      "Soru": "Where would you go to work out on a trade mill? ",
+      "Cevap": " a gym \/ gymnasium",
+      "Aktif": 1
+    },
+    {
+      "No": 618,
+      "Soru": "What piece of equipment would you use to go diving in a see, an aquaplane or an aqualung? ",
+      "Cevap": " An aqualung",
+      "Aktif": 1
+    },
+    {
+      "No": 619,
+      "Soru": "Where would you most likely go to buy some flowers (a bakery, a florist or a super market)? ",
+      "Cevap": " a supermarket",
+      "Aktif": 1
+    },
+    {
+      "No": 620,
+      "Soru": "Which hospital dept. you go for x-ray (radiology or cardio)",
+      "Cevap": " a radiology",
+      "Aktif": 1
+    },
+    {
+      "No": 621,
+      "Soru": "Where would you go to see an exhibition of sculptures? ",
+      "Cevap": " To an art gallery \/ to a museum",
+      "Aktif": 1
+    },
+    {
+      "No": 622,
+      "Soru": "Would you measure volume of water in litres or kilos? ",
+      "Cevap": " Litres",
+      "Aktif": 1
+    },
+    {
+      "No": 623,
+      "Soru": "What\u2019s the joint called where your hand is connected to your arm?",
+      "Cevap": "The (or your) wrist",
+      "Aktif": 1
+    },
+    {
+      "No": 624,
+      "Soru": "What organ do cardiologists specialize in? ",
+      "Cevap": " (the) heart \/ hearts",
+      "Aktif": 1
+    },
+    {
+      "No": 625,
+      "Soru": "If telescopes are used to locate distant objects, what instrument is employed to magnify miniscule objects? ",
+      "Cevap": " (electron) microscope \/ microscopes",
+      "Aktif": 1
+    },
+    {
+      "No": 626,
+      "Soru": "Which kind of punishment for a erime is the less severe, an imprisonment or community service? ",
+      "Cevap": " Community service",
+      "Aktif": 1
+    },
+    {
+      "No": 627,
+      "Soru": "How many sides are there in a bilateral agreement? ",
+      "Cevap": " Two",
+      "Aktif": 1
+    },
+    {
+      "No": 628,
+      "Soru": "Which is the longest: a decade, a millennium or a century?",
+      "Cevap": "A millennium",
+      "Aktif": 1
+    },
+    {
+      "No": 629,
+      "Soru": "A manufacturing process releases noxious gases. What is the most important safety measure for workers at this plant \u2013 ensuring good ventilation, or appropriate footwear?",
+      "Cevap": " (ensuring good) ventilation",
+      "Aktif": 1
+    },
+    {
+      "No": 630,
+      "Soru": "A list of events placed in time order is usually described as what? ",
+      "Cevap": " A chronology \/ a timeline",
+      "Aktif": 1
+    },
+    {
+      "No": 631,
+      "Soru": "If a figure is hexagonal, how many sides does it have? ",
+      "Cevap": " Six",
+      "Aktif": 1
+    },
+    {
+      "No": 632,
+      "Soru": "What key mineral makes sea water different from fresh water? ",
+      "Cevap": " Salt",
+      "Aktif": 1
+    },
+    {
+      "No": 633,
+      "Soru": "In the animal kingdom, is the purpose of camouflage to attract a mate, to find food or to hide? ",
+      "Cevap": " (it\u2019s) (the purpose is) (to) hide",
+      "Aktif": 1
+    },
+    {
+      "No": 634,
+      "Soru": "Which section of newspaper gives the editor an opinion? ",
+      "Cevap": " Editorial",
+      "Aktif": 1
+    },
+    {
+      "No": 635,
+      "Soru": "What instrument used to examine very small thing ",
+      "Cevap": " microscope",
+      "Aktif": 1
+    },
+    {
+      "No": 636,
+      "Soru": "What is the destructive program that spread from comp to comp ",
+      "Cevap": " a virus",
+      "Aktif": 1
+    },
+    {
+      "No": 637,
+      "Soru": "What term used for animals that give birth to ",
+      "Cevap": " mammals",
+      "Aktif": 1
+    },
+    {
+      "No": 638,
+      "Soru": "System of Govt. where people vote for people ",
+      "Cevap": " democracy",
+      "Aktif": 1
+    },
+    {
+      "No": 639,
+      "Soru": "Piece of paper that you bought an item ",
+      "Cevap": " a receipt",
+      "Aktif": 1
+    },
+    {
+      "No": 640,
+      "Soru": "What you call the document that tells your qualification and work exp? ",
+      "Cevap": " CV, curriculum vitae, resumes",
+      "Aktif": 1
+    },
+    {
+      "No": 641,
+      "Soru": "How would you describe economy largely based on farming? ",
+      "Cevap": " Agricultural, rural",
+      "Aktif": 1
+    },
+    {
+      "No": 642,
+      "Soru": "What is the study of stars and planet called? ",
+      "Cevap": " Astronomy",
+      "Aktif": 1
+    },
+    {
+      "No": 643,
+      "Soru": "In business and adv. what is PR stand for? ",
+      "Cevap": " Public relations",
+      "Aktif": 1
+    },
+    {
+      "No": 644,
+      "Soru": "What emergency service called at sea? ",
+      "Cevap": " Coastguard",
+      "Aktif": 1
+    },
+    {
+      "No": 645,
+      "Soru": "Name a month fall bet April and June? ",
+      "Cevap": " May",
+      "Aktif": 1
+    },
+    {
+      "No": 646,
+      "Soru": "What word describe moving a website from internet to your comp ",
+      "Cevap": " downloading \/ download",
+      "Aktif": 1
+    },
+    {
+      "No": 647,
+      "Soru": "What is called a picture doctor take to see inside body? ",
+      "Cevap": " An X-Ray",
+      "Aktif": 1
+    },
+    {
+      "No": 648,
+      "Soru": "What crime has someone stealing from shop committed? ",
+      "Cevap": " shoplifting",
+      "Aktif": 1
+    },
+    {
+      "No": 649,
+      "Soru": "If someone feeling ill they will say \u2018they are feeling under the ___\u2019 what? \u2013",
+      "Cevap": "Weather",
+      "Aktif": 1
+    },
+    {
+      "No": 650,
+      "Soru": "Who is person in-charge of a football match?",
+      "Cevap": " The referee",
+      "Aktif": 1
+    },
+    {
+      "No": 651,
+      "Soru": "Last game in sporting competition that decide champ? ",
+      "Cevap": " The final",
+      "Aktif": 1
+    },
+    {
+      "No": 652,
+      "Soru": "What is the general term for painting at country side or natural view? ",
+      "Cevap": " Landscape",
+      "Aktif": 1
+    },
+    {
+      "No": 653,
+      "Soru": "Found in office (a printer and other two options)? ",
+      "Cevap": " A printer",
+      "Aktif": 1
+    },
+    {
+      "No": 654,
+      "Soru": "There are two types of sporting contests: one is amateur; and other is ?",
+      "Cevap": "Professional",
+      "Aktif": 1
+    },
+    {
+      "No": 655,
+      "Soru": "Where would you find the whale (tropical forest, ocean)? ",
+      "Cevap": " Ocean",
+      "Aktif": 1
+    },
+    {
+      "No": 656,
+      "Soru": "Coat had a stain on it where would they take? ",
+      "Cevap": " A dry cleaner\u2019s",
+      "Aktif": 1
+    },
+    {
+      "No": 657,
+      "Soru": "What are the things that \u2018hens lay\u2019 called? ",
+      "Cevap": " Eggs",
+      "Aktif": 1
+    },
+    {
+      "No": 658,
+      "Soru": "The people who use to obey the rules and protect the public from criminals are called? ",
+      "Cevap": " The police",
+      "Aktif": 1
+    },
+    {
+      "No": 659,
+      "Soru": "On what geographical location would someone be living if their country is surrounded by water on all side? ",
+      "Cevap": " An island",
+      "Aktif": 1
+    },
+    {
+      "No": 660,
+      "Soru": "What general part of the day is known as dawn?",
+      "Cevap": "A sunrise (Part of the Day: \u201cDawn\u2013Twilight\u2013Sunrise, Morning, Daylight \/ midday_x0002_afternoon, Evening, Sunset\u2013Twilight\u2013Dusk, Night\u201d)",
+      "Aktif": 1
+    },
+    {
+      "No": 661,
+      "Soru": "What are the people that plant food, raise crop are commonly known as? ",
+      "Cevap": " Farmers",
+      "Aktif": 1
+    },
+    {
+      "No": 662,
+      "Soru": "If a button has come off a shirt, what would someone most likely use to put it back on? ",
+      "Cevap": " A needle and thread",
+      "Aktif": 1
+    },
+    {
+      "No": 663,
+      "Soru": "What appliance do people use to keep their food cool and preventing from spoiling? ",
+      "Cevap": " Fridge",
+      "Aktif": 1
+    },
+    {
+      "No": 664,
+      "Soru": "T o crossover from one side of the wide river to another without using boat, what is usually required? ",
+      "Cevap": " A bridge",
+      "Aktif": 1
+    },
+    {
+      "No": 665,
+      "Soru": "Which drink has caffeine alongside tea and hot chocolate? ",
+      "Cevap": "Coffee",
+      "Aktif": 1
+    },
+    {
+      "No": 666,
+      "Soru": "What is the strings on shoes? ",
+      "Cevap": "Shoelace",
+      "Aktif": 1
+    },
+    {
+      "No": 667,
+      "Soru": "Which one is not a mythological animal? Unicorn, giraffe, dragon or mermaid?",
+      "Cevap": "Giraffe",
+      "Aktif": 1
+    },
+    {
+      "No": 668,
+      "Soru": "Properties inherited from one\u2019s father",
+      "Cevap": " patrimony",
+      "Aktif": 1
+    },
+    {
+      "No": 669,
+      "Soru": "One who loves his\/ her country?",
+      "Cevap": " Patriot",
+      "Aktif": 1
+    },
+    {
+      "No": 670,
+      "Soru": "Payment made in consideration of past service ",
+      "Cevap": " pension",
+      "Aktif": 1
+    },
+    {
+      "No": 671,
+      "Soru": "Study of stamp collection",
+      "Cevap": " philately",
+      "Aktif": 1
+    },
+    {
+      "No": 672,
+      "Soru": "The study of ancient societies",
+      "Cevap": " archeology",
+      "Aktif": 1
+    },
+    {
+      "No": 673,
+      "Soru": "Medical examination of a dead body",
+      "Cevap": "postmortem",
+      "Aktif": 1
+    },
+    {
+      "No": 674,
+      "Soru": "A short message added on to the end of a letter after the signature",
+      "Cevap": " postscript",
+      "Aktif": 1
+    },
+    {
+      "No": 675,
+      "Soru": "Water fit for drinking",
+      "Cevap": "potable",
+      "Aktif": 1
+    },
+    {
+      "No": 676,
+      "Soru": "An animal that preys on other animals",
+      "Cevap": "predator",
+      "Aktif": 1
+    },
+    {
+      "No": 677,
+      "Soru": "To form an opinion against anybody baselessly",
+      "Cevap": " prejudice",
+      "Aktif": 1
+    },
+    {
+      "No": 678,
+      "Soru": "The practice of having many wives",
+      "Cevap": " polygamy",
+      "Aktif": 1
+    },
+    {
+      "No": 679,
+      "Soru": "One who know many languages ",
+      "Cevap": " polyglot",
+      "Aktif": 1
+    },
+    {
+      "No": 680,
+      "Soru": "A government by the rich ",
+      "Cevap": " plutocracy",
+      "Aktif": 1
+    },
+    {
+      "No": 681,
+      "Soru": "One who copies from other writers? ",
+      "Cevap": " plagiarist",
+      "Aktif": 1
+    },
+    {
+      "No": 682,
+      "Soru": "The study of the body",
+      "Cevap": " physiology",
+      "Aktif": 1
+    },
+    {
+      "No": 683,
+      "Soru": "One who leads others",
+      "Cevap": " pioneer",
+      "Aktif": 1
+    },
+    {
+      "No": 684,
+      "Soru": "A thing that is fit to be eaten",
+      "Cevap": " edible",
+      "Aktif": 1
+    },
+    {
+      "No": 685,
+      "Soru": "An exact copy ",
+      "Cevap": " facsimile",
+      "Aktif": 1
+    },
+    {
+      "No": 686,
+      "Soru": "Anything that leads to death ",
+      "Cevap": " fatal",
+      "Aktif": 1
+    },
+    {
+      "No": 687,
+      "Soru": "A person who eats too much",
+      "Cevap": " glutton",
+      "Aktif": 1
+    },
+    {
+      "No": 688,
+      "Soru": "Likely to break apart easily ",
+      "Cevap": " brittle",
+      "Aktif": 1
+    },
+    {
+      "No": 689,
+      "Soru": "One who does not make mistakes ",
+      "Cevap": " infallible",
+      "Aktif": 1
+    },
+    {
+      "No": 690,
+      "Soru": "One who goes on foot ",
+      "Cevap": " pedestrian",
+      "Aktif": 1
+    },
+    {
+      "No": 691,
+      "Soru": "The science which treats with life ",
+      "Cevap": " biology",
+      "Aktif": 1
+    },
+    {
+      "No": 692,
+      "Soru": "What are the words called which have the same meaning",
+      "Cevap": " synonym",
+      "Aktif": 1
+    },
+    {
+      "No": 693,
+      "Soru": "A person living at the same time as another ",
+      "Cevap": " contemporary",
+      "Aktif": 1
+    },
+    {
+      "No": 694,
+      "Soru": "Through which light cannot pass ",
+      "Cevap": " opaque",
+      "Aktif": 1
+    },
+    {
+      "No": 695,
+      "Soru": "An instrument for viewing object at a distance ",
+      "Cevap": " telescope",
+      "Aktif": 1
+    },
+    {
+      "No": 696,
+      "Soru": "Cure of all diseases ",
+      "Cevap": " panacea",
+      "Aktif": 1
+    },
+    {
+      "No": 697,
+      "Soru": "Custom of many husbands ",
+      "Cevap": " polygamy",
+      "Aktif": 1
+    },
+    {
+      "No": 698,
+      "Soru": "What is fear of water called",
+      "Cevap": " hydrophobia",
+      "Aktif": 1
+    },
+    {
+      "No": 699,
+      "Soru": "A woman whose husband is dead ",
+      "Cevap": " widow",
+      "Aktif": 1
+    },
+    {
+      "No": 700,
+      "Soru": "That which is against law ",
+      "Cevap": " illegal",
+      "Aktif": 1
+    },
+    {
+      "No": 701,
+      "Soru": "Things of same nature ",
+      "Cevap": " homogenous",
+      "Aktif": 1
+    },
+    {
+      "No": 702,
+      "Soru": "A list of names of. Books ",
+      "Cevap": " catalog",
+      "Aktif": 1
+    },
+    {
+      "No": 703,
+      "Soru": "A pleasant song used for causing children to sleep ",
+      "Cevap": " lullaby",
+      "Aktif": 1
+    },
+    {
+      "No": 704,
+      "Soru": "A school for small children ",
+      "Cevap": " Kindergarten",
+      "Aktif": 1
+    },
+    {
+      "No": 705,
+      "Soru": "A coworker in the same institution is a colleague or a peer ",
+      "Cevap": " colleague",
+      "Aktif": 1
+    },
+    {
+      "No": 706,
+      "Soru": "An assembly of hearers at a conference or concert ",
+      "Cevap": " audience",
+      "Aktif": 1
+    },
+    {
+      "No": 707,
+      "Soru": "A shed for motor cars ",
+      "Cevap": " garage",
+      "Aktif": 1
+    },
+    {
+      "No": 708,
+      "Soru": "A medicine that prevents infection by killing germs ",
+      "Cevap": " antiseptic",
+      "Aktif": 1
+    },
+    {
+      "No": 709,
+      "Soru": "Who invented computer ",
+      "Cevap": " Charles Babbage",
+      "Aktif": 1
+    },
+    {
+      "No": 710,
+      "Soru": "who is the main founder of Facebook ",
+      "Cevap": " Mark Zuckerberg",
+      "Aktif": 1
+    },
+    {
+      "No": 711,
+      "Soru": "In which century was the computer invented ",
+      "Cevap": " 19th century",
+      "Aktif": 1
+    },
+    {
+      "No": 712,
+      "Soru": "Who invented zero ",
+      "Cevap": " Arya Bhatt",
+      "Aktif": 1
+    },
+    {
+      "No": 713,
+      "Soru": "Number 13 is unlucky in which religion",
+      "Cevap": " Christian",
+      "Aktif": 1
+    }
+  ]

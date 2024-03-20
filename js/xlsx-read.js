@@ -1,26 +1,9 @@
-// ExcelJS kütüphanesini yükleyin
-const ExcelJS = require('exceljs');
+// const jsonString = '{"people":[{"name":"John","age":30},{"name":"Anna","age":25},{"name":"Peter","age":35}]}';
 
-// Excel dosyasını açın
-const workbook = new ExcelJS.Workbook();
-workbook.xlsx.readFile('PTE.xlsx')
-    .then(() => {
-        // Sayfa adını belirtin (örneğin "Sheet1")
-        const sheetName = 'Sheet1';
+const jsonString = '{}'
+const parsedData = JSON.parse(jsonString);
 
-        // Sayfa nesnesini alın
-        const sheet = workbook.getWorksheet(sheetName);
+for (let i = 0; i < parsedData.people.length; i++) {
 
-        // Sütun sayısını alın
-        const numColumns = sheet.columnCount;
-
-        // Her sütunu döngü ile gezin
-        for (let i = 1; i <= numColumns; i++) {
-            const column = sheet.getColumn(i);
-            const columnHeader = column.header;
-            console.log(`Sütun ${i}: ${columnHeader}`);
-        }
-    })
-    .catch(err => {
-        console.error('Hata oluştu:', err.message);
-    });
+    console.log('No: ', parsedData.people[i].No, 'Soru: ', parsedData.people[i].Soru, 'Cevap: ', parsedData.people[i].cevap);
+}
