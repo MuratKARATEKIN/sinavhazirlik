@@ -27,39 +27,18 @@
     </nav>
 
     <!-- Jumbotron -->
-    <div class="jumbotron">
+    <div class="jumbotron" >
         <h1 class="display-4">Sınav Soruları</h1>
         <p class="lead">Bu sınavda yer alan soruları dikkatlice yanıtlayınız.</p>
         <!-- Sınav tarihi veya diğer bilgiler buraya eklenebilir. -->
     </div>
 
     <!-- Formlar -->
-    <div class="container">
-        <form>
-            <!-- Soru 1 -->
-            <div class="form-group">
-                <label for="soru1">Soru 1: Hangi gezegen Güneş Sistemi'nde en büyük?</label>
-                <div class="form-check">
-                    <input class="form-check-input" type="checkbox" id="cevap1" value="Mars">
-                    <label class="form-check-label" for="cevap1">Mars</label>
-                </div>
-                <div class="form-check">
-                    <input class="form-check-input" type="checkbox" id="cevap2" value="Jüpiter">
-                    <label class="form-check-label" for="cevap2">Jüpiter</label>
-                </div>
-                <div class="form-check">
-                    <input class="form-check-input" type="checkbox" id="cevap3" value="Venüs">
-                    <label class="form-check-label" for="cevap3">Venüs</label>
-                </div>
-                <div class="form-check">
-                    <input class="form-check-input" type="checkbox" id="cevap4" value="Dünya">
-                    <label class="form-check-label" for="cevap4">Dünya</label>
-                </div>
-            </div>
+    <div class="container" id="sorular">
 
-            <!-- İleri Butonu -->
-            <button type="submit" class="btn btn-primary">İleri</button>
-        </form>
+    <div id="cevaplar">
+
+    </div>
     </div>
 
     <!-- Uyarılar -->
@@ -93,16 +72,16 @@
         // Her bir checkbox için olay dinleyicisi ekle
         checkboxes.forEach((checkbox, index) => {
             checkbox.addEventListener('change', () => {
-                if (checkbox.checked && checkbox.id === 'cevap1') {
-                    console.log(`Doğru cevap işaretlendi!`);
+                if (checkbox.checked && checkbox.value === '1') {
+                    checkbox.style.color = 'Green';
                 }
                 else {
-                    console.log(`Yanlış cevap işaretlendi!`);
+                    checkbox.style.color = 'red';
                 }
             });
         });
     </script>
-    <script src="js/xlsx-read.js"></script>
+    <script type="module" src="js/xlsx-read.js"></script>
 
 </body>
 
