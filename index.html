@@ -8,6 +8,7 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <script src="https://cdn.jsdelivr.net/npm/exceljs/dist/exceljs.min.js"></script>
+    <link rel="stylesheet" href="./css/style.css">
 </head>
 
 <body>
@@ -20,34 +21,48 @@
                 <a class="nav-link" href="#">Anasayfa</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">Sorular</a>
+                <a class="nav-link" target="_blank" href="cevaplar.html">cevaplar</a>
             </li>
             <!-- Diğer sayfa bağlantıları buraya eklenebilir -->
         </ul>
     </nav>
 
     <!-- Jumbotron -->
-    <div class="jumbotron" >
+    <div class="jumbotron">
         <h1 class="display-4">Sınav Soruları</h1>
         <p class="lead">Bu sınavda yer alan soruları dikkatlice yanıtlayınız.</p>
-        <!-- Sınav tarihi veya diğer bilgiler buraya eklenebilir. -->
+        <label for="basayi">Başlangıç Sayısı:</label>
+        <input type="number" id="baslangicSayisi" value="1">
+        <label for="kacSoru1">Kaç Soru Gelsin:</label>
+        <input type="number" id="kacSoru" value="20">
+        <label for="toplamsor" id="toplamSoru">Toplam Soru Sayısı: 735</label>
+        <button type="submit" class="btn btn-primary m-4" id="soruGetirBtn">Soruları Getir..</button>
+
+
+
     </div>
+
 
     <!-- Formlar -->
-    <div class="container" id="sorular">
+    <div class="container" id="sorularGenel">
 
-    <div id="cevaplar">
-
-    </div>
+        
     </div>
 
-    <!-- Uyarılar -->
-    <div class="container mt-4">
+    <div class="container">
+        <!-- Durum Kontrol Butonu -->
+
+        <button type="submit" class="btn btn-primary m-4" id="durumBtn">Soruları Kontrol Et</button>
+    </div>
+    <!-- Uyarilar -->
+    <div class="container mt-4" id="1">
         <div class="alert alert-success" role="alert">
-            Sınavı başarıyla tamamladınız!
+            <p id="durumAciklama"></p>
         </div>
-        <!-- Hata mesajları buraya eklenebilir -->
+        <!-- Hata mesajlari buraya eklenebilir -->
     </div>
+
+
 
     <!-- Bootstrap JS (jQuery ve Popper.js ile birlikte) -->
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
@@ -57,7 +72,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.8.0/xlsx.js"></script>
 
     <script>
-        // Sadece bir checkbox seçilebilir, diğerleri işaretli kalır.
+        // Sadece bir checkbox secilebilir, digerleri isaretli kalir.
         $(document).ready(function () {
             $('input[type="checkbox"]').change(function () {
                 $('input[type="checkbox"]').not(this).prop('checked', false);
@@ -66,23 +81,161 @@
     </script>
 
     <script>
-        // HTML'de 4 adet checkbox olduğunu varsayalım
-        const checkboxes = document.querySelectorAll('input[type="checkbox"]');
+        const myLabel = document.getElementById("myLabel");
+        document.addEventListener("change", function (event) {
+            if (event.target.checked &&
+                event.target.value == 1) {
 
-        // Her bir checkbox için olay dinleyicisi ekle
-        checkboxes.forEach((checkbox, index) => {
-            checkbox.addEventListener('change', () => {
-                if (checkbox.checked && checkbox.value === '1') {
-                    checkbox.style.color = 'Green';
-                }
-                else {
-                    checkbox.style.color = 'red';
-                }
-            });
+                console.log("Dogru.", event.target.value);
+
+
+            } else {
+                console.log("Yanlis");
+            }
         });
     </script>
+
+    <script>
+
+        const myButton = document.getElementById("durumBtn");
+        const mydurumAciklama = document.getElementById("durumAciklama");
+
+
+
+        myButton.addEventListener("click", handleClick);
+        function handleClick() {
+
+            const checkboxes = document.querySelectorAll('input[type="checkbox"]');
+            let trueCount = 0;
+            let falseCount = 0;
+
+            checkboxes.forEach((checkbox) => {
+                if (checkbox.checked) {
+                    if (checkbox.value === "1") {
+                        trueCount++;
+                        checkbox.nextElementSibling.style.backgroundColor = "green";
+                    } else if (checkbox.value === "0") {
+                        falseCount++;
+                        checkbox.nextElementSibling.style.backgroundColor = "red";
+                    }
+                }
+            });
+
+            mydurumAciklama.innerText = "Doğru: " + trueCount + " Yanlış: " + falseCount;
+        }
+
+    </script>
+
+
     <script type="module" src="js/xlsx-read.js"></script>
 
+    <script>
+
+
+
+
+        soruGetirBtn.addEventListener("click", handleClick);
+        function handleClick() {
+
+
+            const soruGetirBtn = document.getElementById("soruGetirBtn");
+            const bSayisi = document.getElementById("baslangicSayisi");
+            const kSoru = document.getElementById("kacSoru");
+
+            const sorularDiv = document.getElementById('sorular');
+
+
+            // İçerik boşsa silme işlemi yapma
+            if (sorularDiv && sorularDiv.innerHTML.trim() !== '') {
+                
+                    sorularDiv.remove();
+        
+                console.log('Alt elemanlar silindi.');
+            } else {
+                console.log('Sorular içeriği zaten boş veya sorularDiv bulunamadı.');
+            }
+            console.log("Soru getir calisti.", bSayisi.value, kSoru.value);
+
+            fetch('../sinavhazirlik/PTE.json')
+                .then((response) => response.json())
+                .then((json) => {
+                    // JSON verilerini dgnguyle isle
+                    // for (const item of json) 
+                    for (let i = bSayisi.value -1; i < kSoru.value; i++) {
+                        const item = json[i];
+
+                        const randomSayi = Math.floor(Math.random() * 700) + 1;
+                        const item2 = json[randomSayi];
+                        const item3 = json[randomSayi + 1];
+                        const item4 = json[randomSayi + 2];
+                        const no = item.No;
+                        const soru = item.Soru;
+                        const cevap = item.Cevap;
+                        const cevap2 = item2.Cevap;
+                        const cevap3 = item3.Cevap;
+                        const cevap4 = item4.Cevap;
+                        const aktif = item.Aktif;
+                        console.log("Sorular", soru, cevap,cevap2,cevap3,cevap4);
+
+                        const sorularElement = document.getElementById('sorularGenel');
+                        const soruHTML = `
+                        <div class="container" id="sorular">
+            <form>
+                <!-- Soru 1 -->
+                <div class="form-group">
+                    <label for="soru${no}" class="soru" id="soru">S${no}: ${soru}</label>
+                    <div id="cevaplar">
+                    ${generateQuestion(cevap, cevap2, cevap3, cevap4, no)}
+
+                </div>
+                </div>
+            </form>
+            </div>
+            `;
+                        sorularElement.innerHTML += soruHTML;
+                    }
+                })
+                .catch((error) => {
+                    console.error('Veri okuma hatasi:', error);
+                });
+
+            function generateQuestion(cevap1, cevap2, cevap3, cevap4, no) {
+
+                const cevaplar = [
+                    { cevap: cevap1, dogru: 1 },
+                    { cevap: cevap2, dogru: 0 },
+                    { cevap: cevap3, dogru: 0 },
+                    { cevap: cevap4, dogru: 0 }
+                ];
+
+                // Cevaplari rastgele sirala
+                const shuffledCevaplar = cevaplar.sort(() => Math.random() - 0.5);
+
+
+                // HTML icerigini olustur
+                let html = "";
+                for (let i = 0; i < shuffledCevaplar.length; i++) {
+                    const cevap = shuffledCevaplar[i].cevap;
+                    const value = shuffledCevaplar[i].dogru;
+
+                    html += `
+
+                <div class="form-check">
+                <input class="form-check-input" type="checkbox" id="myCheckbox" value="${value}">
+                <label class="form-check-label" id="myLabel" for="cevap${i}">${cevap}</label>
+                </div>
+            `;
+                }
+
+                return html;
+            }
+
+
+
+
+
+        }
+    </script>
 </body>
 
 </html>
