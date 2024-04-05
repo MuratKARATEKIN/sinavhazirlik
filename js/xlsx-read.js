@@ -14,10 +14,11 @@ fetch('../sinavhazirlik/PTE.json')
             const no = item.No;
             const soru = item.Soru;
             const cevap = item.Cevap;
+            const aktif = item.Aktif;
             const cevap2 = item2.Cevap;
             const cevap3 = item3.Cevap;
             const cevap4 = item4.Cevap;
-            const aktif = item.Aktif;
+            
 
 
 
@@ -32,7 +33,6 @@ fetch('../sinavhazirlik/PTE.json')
                 <div class="form-group">
                     <label for="soru${no}" id="soru${no}">Soru ${no}: ${soru}</label>
 
-                    // cevapları yukle
                     ${generateQuestion(cevap, cevap2, cevap3, cevap4, no)}
 
                 </div>
